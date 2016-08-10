@@ -1,0 +1,9230 @@
+/* Layout Template 43-4-v */
+#c-layout.c-layout-43-4-v {
+    width: 420px;
+    height: 560px;
+    margin: -48% 0 0 -36%;
+}
+
+
+.c-layout-43-4-v .c-layout-slot.rect-v {
+    width: 195px;
+    height: 260px;
+}
+
+.c-layout-43-4-v .c-layout-slot.pos-1 {
+    top: 15px;
+    left: 10px;
+}
+
+.c-layout-43-4-v .c-layout-slot.pos-2 {
+    top: 15px;
+    left: 215px;
+}
+
+.c-layout-43-4-v .c-layout-slot.pos-3 {
+    top: 285px;
+    left: 10px;
+}
+
+.c-layout-43-4-v .c-layout-slot.pos-4 {
+    top: 285px;
+    left: 215px;
+}
+
+ /* Layout Template 11-27-h */
+ #c-layout.c-layout-11-27-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-1 {
+    height: 67px;
+    left: 10px;
+    top: 10px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-2 {
+    height: 90px;
+    left: 103px;
+    top: 10px;
+    width: 67px;
+}
+
+
+.c-layout-11-27-h .c-layout-slot.pos-3 {
+    height: 90px;
+    left: 10px;
+    top: 80px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-4 {
+    height: 67px;
+    left: 80px;
+    top: 103px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h .c-layout-slot.pos-5 {
+    height: 67px;
+    left: 180px;
+    top: 10px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-6 {
+    height: 90px;
+    left: 273px;
+    top: 10px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-7 {
+    height: 90px;
+    left: 180px;
+    top: 80px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-8 {
+    height: 67px;
+    left: 250px;
+    top: 103px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h .c-layout-slot.pos-9 {
+    height: 67px;
+    left: 350px;
+    top: 10px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-10 {
+    height: 90px;
+    left: 443px;
+    top: 10px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-11 {
+    height: 90px;
+    left: 350px;
+    top: 80px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-12 {
+    height: 67px;
+    left: 420px;
+    top: 103px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h .c-layout-slot.pos-13 {
+    height: 160px;
+    left: 10px;
+    top: 180px;
+    width: 160px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-14 {
+    height: 160px;
+    left: 180px;
+    top: 180px;
+    width: 160px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-15 {
+    height: 160px;
+    left: 350px;
+    top: 180px;
+    width: 160px;
+}
+
+
+.c-layout-11-27-h .c-layout-slot.pos-16 {
+    height: 67px;
+    left: 10px;
+    top: 350px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-17 {
+    height: 90px;
+    left: 103px;
+    top: 350px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-18 {
+    height: 90px;
+    left: 10px;
+    top: 420px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-19 {
+    height: 67px;
+    left: 80px;
+    top: 443px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h .c-layout-slot.pos-20 {
+    height: 67px;
+    left: 180px;
+    top: 350px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-21 {
+    height: 90px;
+    left: 180px;
+    top: 420px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-22 {
+    height: 90px;
+    left: 273px;
+    top: 350px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-23 {
+    height: 67px;
+    left: 250px;
+    top: 443px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-24 {
+    height: 67px;
+    left: 350px;
+    top: 350px;
+    width: 90px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-25 {
+    height: 90px;
+    left: 350px;
+    top: 420px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-26 {
+    height: 90px;
+    left: 443px;
+    top: 350px;
+    width: 67px;
+}
+
+.c-layout-11-27-h .c-layout-slot.pos-27 {
+    height: 67px;
+    left: 420px;
+    top: 443px;
+    width: 90px;
+}
+
+ /* Layout Template 11-27-h-txt */
+ #c-layout.c-layout-11-27-h-txt {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-text {
+    left: 180px;
+    top: 204px;
+    width: 160px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-1 {
+    height: 67px;
+    left: 10px;
+    top: 10px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-2 {
+    height: 90px;
+    left: 103px;
+    top: 10px;
+    width: 67px;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-3 {
+    height: 90px;
+    left: 10px;
+    top: 80px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-4 {
+    height: 67px;
+    left: 80px;
+    top: 103px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-5 {
+    height: 67px;
+    left: 180px;
+    top: 10px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-6 {
+    height: 90px;
+    left: 273px;
+    top: 10px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-7 {
+    height: 90px;
+    left: 180px;
+    top: 80px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-8 {
+    height: 67px;
+    left: 250px;
+    top: 103px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-9 {
+    height: 67px;
+    left: 350px;
+    top: 10px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-10 {
+    height: 90px;
+    left: 443px;
+    top: 10px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-11 {
+    height: 90px;
+    left: 350px;
+    top: 80px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-12 {
+    height: 67px;
+    left: 420px;
+    top: 103px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-13 {
+    height: 160px;
+    left: 10px;
+    top: 180px;
+    width: 160px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-14 {
+    height: 80px;
+    left: 180px;
+    top: 260px;
+    width: 160px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-15 {
+    height: 160px;
+    left: 350px;
+    top: 180px;
+    width: 160px;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-16 {
+    height: 67px;
+    left: 10px;
+    top: 350px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-17 {
+    height: 90px;
+    left: 103px;
+    top: 350px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-18 {
+    height: 90px;
+    left: 10px;
+    top: 420px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-19 {
+    height: 67px;
+    left: 80px;
+    top: 443px;
+    width: 90px;
+}
+
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-20 {
+    height: 67px;
+    left: 180px;
+    top: 350px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-21 {
+    height: 90px;
+    left: 180px;
+    top: 420px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-22 {
+    height: 90px;
+    left: 273px;
+    top: 350px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-23 {
+    height: 67px;
+    left: 250px;
+    top: 443px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-24 {
+    height: 67px;
+    left: 350px;
+    top: 350px;
+    width: 90px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-25 {
+    height: 90px;
+    left: 350px;
+    top: 420px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-26 {
+    height: 90px;
+    left: 443px;
+    top: 350px;
+    width: 67px;
+}
+
+.c-layout-11-27-h-txt .c-layout-slot.pos-27 {
+    height: 67px;
+    left: 420px;
+    top: 443px;
+    width: 90px;
+}
+
+
+/* Layout Template 43-4-v-txt */
+#c-layout.c-layout-43-4-v-txt {
+    width: 420px;
+    height: 560px;
+    margin: -48% 0 0 -36%;
+}
+
+.c-layout-43-4-v-txt .c-layout-text {
+    width: 360px;
+    top: 510px;
+    left: 30px;
+}
+
+.c-layout-43-4-v-txt .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 30px;
+    top: 25px;
+    width: 170px;
+
+}
+
+.c-layout-43-4-v-txt .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 220px;
+    top: 25px;
+    width: 170px;
+
+}
+
+.c-layout-43-4-v-txt .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 30px;
+    top: 270px;
+    width: 170px;
+
+}
+
+.c-layout-43-4-v-txt .c-layout-slot.pos-4 {
+    height: 225px;
+    left: 220px;
+    top: 270px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+}
+
+.c-layout-43-3-h-txt .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-4-h */
+#c-layout.c-layout-43-4-h {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+}
+
+.c-layout-43-4-h .c-layout-slot.pos-1 {
+    height: 170px;
+    left: 45px;
+    top: 30px;
+    width: 225px;
+
+}
+
+.c-layout-43-4-h .c-layout-slot.pos-2 {
+    height: 170px;
+    left: 290px;
+    top: 30px;
+    width: 225px;
+
+}
+
+.c-layout-43-4-h .c-layout-slot.pos-3 {
+    height: 170px;
+    left: 45px;
+    top: 220px;
+    width: 225px;
+
+}
+
+.c-layout-43-4-h .c-layout-slot.pos-4 {
+    height: 170px;
+    left: 290px;
+    top: 220px;
+    width: 225px;
+
+}
+
+/* Layout Template 11-9-h */
+#c-layout.c-layout-11-9-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-1 {
+    height: 150px;
+    left: 25px;
+    top: 25px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-2 {
+    height: 150px;
+    left: 185px;
+    top: 25px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-3 {
+    height: 150px;
+    left: 345px;
+    top: 25px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-4 {
+    height: 150px;
+    left: 25px;
+    top: 185px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-5 {
+    height: 150px;
+    left: 185px;
+    top: 185px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-6 {
+    height: 150px;
+    left: 345px;
+    top: 185px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-7 {
+    height: 150px;
+    left: 25px;
+    top: 345px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-8 {
+    height: 150px;
+    left: 185px;
+    top: 345px;
+    width: 150px;
+
+}
+
+.c-layout-11-9-h .c-layout-slot.pos-9 {
+    height: 150px;
+    left: 345px;
+    top: 345px;
+    width: 150px;
+
+}
+
+/* Layout Template 11-12-h-txt */
+#c-layout.c-layout-11-12-h-txt {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+}
+
+
+.c-layout-11-12-h-txt .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-12-v */
+#c-layout.c-layout-43-12-v {
+    width: 420px;
+    height: 560px;
+    margin: -48% 0 0 -36%;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 39px;
+    top: 20px;
+    width: 92px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 134px;
+    top: 20px;
+    width: 69px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 39px;
+    top: 92px;
+    width: 69px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 111px;
+    top: 115px;
+    width: 92px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-5 {
+    height: 164px;
+    left: 217px;
+    top: 20px;
+    width: 164px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-6 {
+    height: 164px;
+    left: 39px;
+    top: 198px;
+    width: 164px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-7 {
+    height: 69px;
+    left: 217px;
+    top: 198px;
+    width: 92px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-8 {
+    height: 92px;
+    left: 312px;
+    top: 198px;
+    width: 69px;
+}
+
+
+.c-layout-43-12-v .c-layout-slot.pos-9 {
+    height: 92px;
+    left: 217px;
+    top: 270px;
+    width: 69px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-10 {
+    height: 69px;
+    left: 289px;
+    top: 293px;
+    width: 92px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-11 {
+    height: 164px;
+    left: 39px;
+    top: 376px;
+    width: 164px;
+}
+
+.c-layout-43-12-v .c-layout-slot.pos-12 {
+    height: 164px;
+    left: 217px;
+    top: 376px;
+    width: 164px;
+}
+
+/* Layout Template 43-14-v-txt */
+#c-layout.c-layout-43-14-v-txt {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+}
+
+
+.c-layout-43-14-v-txt .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-12-h-txt */
+#c-layout.c-layout-43-12-h-txt {
+    width: 560px;
+    height: 420px;
+    margin: -36% 0 0 -49%;
+}
+
+
+.c-layout-43-12-h-txt .c-layout-text {
+    width: 342px;
+    top: 354px;
+    left: 198px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-1 {
+    height: 92px;
+    left: 20px;
+    top: 39px;
+    width: 69px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-2 {
+    height: 69px;
+    left: 92px;
+    top: 39px;
+    width: 92px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-3 {
+    height: 69px;
+    left: 20px;
+    top: 134px;
+    width: 92px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-4 {
+    height: 92px;
+    left: 115px;
+    top: 111px;
+    width: 69px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-5 {
+    height: 164px;
+    left: 198px;
+    top: 39px;
+    width: 164px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-6 {
+    height: 92px;
+    left: 376px;
+    top: 39px;
+    width: 69px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-7 {
+    height: 69px;
+    left: 448px;
+    top: 39px;
+    width: 92px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-8 {
+    height: 69px;
+    left: 376px;
+    top: 134px;
+    width: 92px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-9 {
+    height: 92px;
+    left: 471px;
+    top: 111px;
+    width: 69px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-10 {
+    height: 164px;
+    left: 20px;
+    top: 217px;
+    width: 164px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-11 {
+    height: 123px;
+    left: 198px;
+    top: 217px;
+    width: 164px;
+}
+
+.c-layout-43-12-h-txt .c-layout-slot.pos-12 {
+    height: 123px;
+    left: 376px;
+    top: 217px;
+    width: 164px;
+}
+
+
+/* Layout Template 43-11-h */
+#c-layout.c-layout-43-11-h {
+    width: 560px;
+    height: 420px;
+    margin: -36% 0 0 -49%;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-1 {
+    height: 164px;
+    left: 20px;
+    top: 39px;
+    width: 342px;
+}
+.c-layout-43-11-h .c-layout-slot.pos-2 {
+    height: 69px;
+    left: 376px;
+    top: 39px;
+    width: 92px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 471px;
+    top: 39px;
+    width: 69px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-4 {
+    height: 92px;
+    left: 376px;
+    top: 111px;
+    width: 69px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 448px;
+    top: 134px;
+    width: 92px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-6 {
+    height: 164px;
+    left: 20px;
+    top: 217px;
+    width: 164px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-7 {
+    height: 69px;
+    left: 198px;
+    top: 217px;
+    width: 92px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-8 {
+    height: 92px;
+    left: 293px;
+    top: 217px;
+    width: 69px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-9 {
+    height: 92px;
+    left: 198px;
+    top: 289px;
+    width: 69px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-10 {
+    height: 69px;
+    left: 270px;
+    top: 312px;
+    width: 92px;
+}
+
+.c-layout-43-11-h .c-layout-slot.pos-11 {
+    height: 164px;
+    left: 376px;
+    top: 217px;
+    width: 164px;
+}
+
+/* Layout Template 43-27-v */
+#c-layout.c-layout-43-27-v {
+    width: 420px;
+    height: 560px;
+    margin: -48% 0 0 -36%;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-1 {
+    height: 54px;
+    left: 12px;
+    top: 15px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-2 {
+    height: 72px;
+    left: 86px;
+    top: 15px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-3 {
+    height: 72px;
+    left: 12px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-4 {
+    height: 54px;
+    left: 68px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-5 {
+    height: 54px;
+    left: 146px;
+    top: 15px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-6 {
+    height: 72px;
+    left: 146px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-7 {
+    height: 72px;
+    left: 220px;
+    top: 15px;
+    width: 54px;
+}
+
+
+.c-layout-43-27-v .c-layout-slot.pos-8 {
+    height: 54px;
+    left: 202px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-9 {
+    height: 54px;
+    left: 280px;
+    top: 15px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v .c-layout-slot.pos-10 {
+    height: 72px;
+    left: 354px;
+    top: 15px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-11 {
+    height: 72px;
+    left: 280px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-12 {
+    height: 54px;
+    left: 336px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-13 {
+    height: 262px;
+    left: 12px;
+    top: 149px;
+    width: 262px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-14 {
+    height: 128px;
+    left: 280px;
+    top: 149px;
+    width: 128px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-15 {
+    height: 128px;
+    left: 280px;
+    top: 283px;
+    width: 128px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-16 {
+    height: 54px;
+    left: 12px;
+    top: 417px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-17 {
+    height: 72px;
+    left: 86px;
+    top: 417px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-18 {
+    height: 72px;
+    left: 12px;
+    top: 473px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-19 {
+    height: 54px;
+    left: 68px;
+    top: 491px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-20 {
+    height: 54px;
+    left: 146px;
+    top: 417px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-21 {
+    height: 72px;
+    left: 220px;
+    top: 417px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-22 {
+    height: 72px;
+    left: 146px;
+    top: 473px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-23 {
+    height: 54px;
+    left: 202px;
+    top: 491px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-24 {
+    height: 54px;
+    left: 280px;
+    top: 417px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-25 {
+    height: 72px;
+    left: 354px;
+    top: 417px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-26 {
+    height: 72px;
+    left: 280px;
+    top: 473px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-27 {
+    height: 54px;
+    left: 336px;
+    top: 491px;
+    width: 72px;
+}
+
+
+
+
+/* Layout Template 52-6-h*/
+#c-layout.c-layout-52-6-h{
+    width: 560px;
+    height: 207px;
+    margin: -15% 0 0 -49%;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-1 {
+    height: 112px;
+    left: 15px;
+    top: 138px;
+    width: 112px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-2 {
+    height: 20px;
+    left: 371px;
+    top: 13px;
+    width: 178px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-3 {
+    height: 129px;
+    left: 375px;
+    top: 45px;
+    width: 172px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-4 {
+    height: 100px;
+    left: 15px;
+    top: 15px;
+    width: 133px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-5 {
+    height: 90px;
+    left: 169px;
+    top: 9px;
+    width: 90px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-6 {
+    height: 90px;
+    left: 267px;
+    top: 9px;
+    width: 90px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-7 {
+    height: 90px;
+    left: 169px;
+    top: 108px;
+    width: 90px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-8 {
+    height: 90px;
+    left: 267px;
+    top: 108px;
+    width: 90px;
+}
+
+/* Layout Template 52-17-h*/
+#c-layout.c-layout-52-17-h{
+    width: 560px;
+    height: 207px;
+    margin: -15% 0 0 -49%;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-1 {
+    height: 112px;
+    left: 15px;
+    top: 138px;
+    width: 112px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-2 {
+    height: 20px;
+    left: 371px;
+    top: 13px;
+    width: 178px;
+}
+
+
+.c-layout-52-17-h .c-layout-slot.pos-3 {
+    height: 81px;
+    left: 475px;
+    top: 122px;
+    width: 81px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-4 {
+    height: 81px;
+    left: 389px;
+    top: 122px;
+    width: 81px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-5 {
+    height: 81px;
+    left: 303px;
+    top: 122px;
+    width: 81px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-6 {
+    height: 81px;
+    left: 217px;
+    top: 122px;
+    width: 81px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-7 {
+    height: 81px;
+    left: 131px;
+    top: 122px;
+    width: 81px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-8 {
+    height: 81px;
+    left: 495px;
+    top: 37px;
+    width: 61px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-9 {
+    height: 81px;
+    left: 410px;
+    top: 37px;
+    width: 81px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-10 {
+    height: 81px;
+    left: 345px;
+    top: 37px;
+    width: 61px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-11 {
+    height: 114px;
+    left: 226px;
+    top: 4px;
+    width: 114px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-12 {
+    height: 114px;
+    left: 107px;
+    top: 4px;
+    width: 114px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-13 {
+    height: 48px;
+    left: 4px;
+    top: 4px;
+    width: 48px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-14 {
+    height: 64px;
+    left: 4px;
+    top: 4px;
+    width: 48px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-15 {
+    height: 64px;
+    left: 54px;
+    top: 4px;
+    width: 48px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-16 {
+    height: 64px;
+    left: 4px;
+    top: 70px;
+    width: 48px;
+}
+
+.c-layout-52-17-h .c-layout-slot.pos-17 {
+    height: 64px;
+    left: 54px;
+    top: 70px;
+    width: 48px;
+}
+
+/*Am 27.01 NEU eingefügt aus Bierbass seiner temp.css + MB + */
+
+
+/* Layout Template 52-6-h*/
+#c-layout.c-layout-52-6-h{
+    width: 560px;
+    height: 207px;
+    margin: -15% 0 0 -49%;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-1 {
+    height: 112px;
+    left: 15px;
+    top: 138px;
+    width: 112px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-2 {
+    height: 20px;
+    left: 371px;
+    top: 13px;
+    width: 178px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-3 {
+    height: 129px;
+    left: 375px;
+    top: 45px;
+    width: 172px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-4 {
+    height: 100px;
+    left: 15px;
+    top: 15px;
+    width: 133px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-5 {
+    height: 90px;
+    left: 169px;
+    top: 9px;
+    width: 90px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-6 {
+    height: 90px;
+    left: 267px;
+    top: 9px;
+    width: 90px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-7 {
+    height: 90px;
+    left: 169px;
+    top: 108px;
+    width: 90px;
+}
+
+.c-layout-52-6-h .c-layout-slot.pos-8 {
+    height: 90px;
+    left: 267px;
+    top: 108px;
+    width: 90px;
+}
+
+
+/* Layout Template 11-9b-h */
+#c-layout.c-layout-11-9b-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-1 {
+    height: 256px;
+    left: 0px;
+    top: 0px;
+    width: 128px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-2 {
+    height: 128px;
+    left: 132px;
+    top: 0px;
+    width: 128px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-3 {
+    height: 128px;
+    left: 264px;
+    top: 0px;
+    width: 256px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-4 {
+    height: 128px;
+    left: 392px;
+    top: 132px;
+    width: 128px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-5 {
+    height: 256px;
+    left: 392px;
+    top: 264px;
+    width: 128px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-6 {
+    height: 128px;
+    left: 260px;
+    top: 392px;
+    width: 128px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-7 {
+    height: 128px;
+    left: 0px;
+    top: 392px;
+    width: 256px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-8 {
+    height: 128px;
+    left: 0px;
+    top: 260px;
+    width: 128px;
+
+}
+
+
+.c-layout-11-9b-h .c-layout-slot.pos-9 {
+    height: 256px;
+    left: 132px;
+    top: 132px;
+    width: 256px;
+
+}
+
+
+/*Facebook ab hier*/
+/* Layout Template 52-8-h */         
+#c-layout.c-layout-52-8-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-1 {
+    height: 192px;
+    left: 0px;
+    top: 0px;
+    width: 192px;
+
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-2 {
+    height: 192px;
+    left: 192px;
+    top: 0px;
+    width: 192px;
+
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-3 {
+    height: 192px;
+    left: 384px;
+    top: 0px;
+    width: 192px;
+
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-4 {
+    height: 192px;
+    left: 576px;
+    top: 0px;
+    width: 192px;
+
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-5 {
+    height: 192px;
+    left: 768px;
+    top: 0px;
+    width: 192px;
+
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-6 {
+    height: 163px;
+    left: 0px;
+    top: 192px;
+    width: 250px;
+
+}
+.c-layout-52-8-h .c-layout-slot.pos-7{
+    height: 163px;
+    left: 250px;
+    top: 192px;
+    width: 460px;
+
+}
+
+.c-layout-52-8-h .c-layout-slot.pos-8{
+    height: 163px;
+    left: 710px;
+    top: 192px;
+    width: 250px;
+
+}
+
+/* Layout Template 52-10-h */         
+#c-layout.c-layout-52-10-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-1 {
+    height: 190px;
+    left: 0px;
+    top: 0px;
+    width: 210px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-2 {
+    height: 163px;
+    left: 0px;
+    top: 190px;
+    width: 210px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-3 {
+    height: 115px;
+    left: 210px;
+    top: 0px;
+    width: 255px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-4 {
+    height: 115px;
+    left: 465px;
+    top: 0px;
+    width: 255px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-5 {
+    height: 125px;
+    left: 210px;
+    top: 115px;
+    width: 255px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-6 {
+    height: 125px;
+    left: 465px;
+    top: 115px;
+    width: 255px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-7 {
+    height: 115px;
+    left: 210px;
+    top: 240px;
+    width: 255px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-8 {
+    height: 115px;
+    left: 465px;
+    top: 240px;
+    width: 255px;
+
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-9 {
+    height: 265px;
+    left: 720px;
+    top: 0px;
+    width: 240px;
+
+}
+
+.c-layout-52-10-h .c-layout-slot.pos-10 {
+    height: 90px;
+    left: 720px;
+    top: 265px;
+    width: 240px;
+
+}
+
+/* Layout Template 52-8a-h */         
+#c-layout.c-layout-52-8a-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-1 {
+    height: 183px;
+    left: 1px;
+    top: 1px;
+    width: 208px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-2 {
+    height: 169px;
+    left: 1px;
+    top: 185px;
+    width: 208px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-3 {
+    height: 89px;
+    left: 606px;
+    top: 265px;
+    width: 353px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-4 {
+    height: 353px;
+    left: 210px;
+    top: 1px;
+    width: 131px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-5 {
+    height: 353px;
+    left: 342px;
+    top: 1px;
+    width: 131px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-6 {
+    height: 353px;
+    left: 474px;
+    top: 1px;
+    width: 131px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-7 {
+    height: 131px;
+    left: 606px;
+    top: 1px;
+    width: 353px;
+
+}
+
+.c-layout-52-8a-h .c-layout-slot.pos-8 {
+    height: 131px;
+    left: 606px;
+    top: 133px;
+    width: 353px;
+
+}
+
+/* Layout Template 52-14-h */         
+#c-layout.c-layout-52-14-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-1 {
+    height: 183px;
+    left: 1px;
+    top: 1px;
+    width: 208px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-2 {
+    height: 169px;
+    left: 1px;
+    top: 185px;
+    width: 208px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-3 {
+    height: 89px;
+    left: 725px;
+    top: 265px;
+    width: 234px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-4 {
+    height: 89px;
+    left: 606px;
+    top: 265px;
+    width: 118px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-5 {
+    height: 131px;
+    left: 841px;
+    top: 133px;
+    width: 118px;
+
+}
+.c-layout-52-14-h .c-layout-slot.pos-6 {
+    height: 131px;
+    left: 606px;
+    top: 133px;
+    width: 234px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-7 {
+    height: 131px;
+    left: 606px;
+    top: 1px;
+    width: 118px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-8 {
+    height: 131px;
+    left: 725px;
+    top: 1px;
+    width: 234px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-8 {
+    height: 131px;
+    left: 725px;
+    top: 1px;
+    width: 234px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-9 {
+    height: 234px;
+    left: 474px;
+    top: 1px;
+    width: 131px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-10 {
+    height: 118px;
+    left: 474px;
+    top: 236px;
+    width: 131px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-11 {
+    height: 118px;
+    left: 342px;
+    top: 1px;
+    width: 131px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-12 {
+    height: 234px;
+    left: 342px;
+    top: 120px;
+    width: 131px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-13 {
+    height: 234px;
+    left: 210px;
+    top: 1px;
+    width: 131px;
+
+}
+
+.c-layout-52-14-h .c-layout-slot.pos-14 {
+    height: 118px;
+    left: 210px;
+    top: 236px;
+    width: 131px;
+
+}
+
+/* Layout Template 52-12a-h */         
+#c-layout.c-layout-52-12a-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-1 {
+    height: 176px;
+    left: 1px;
+    top: 1px;
+    width: 238px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-2 {
+    height: 176px;
+    left: 1px;
+    top: 178px;
+    width: 238px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-3 {
+    height: 176px;
+    left: 721px;
+    top: 178px;
+    width: 238px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-4 {
+    height: 176px;
+    left: 721px;
+    top: 1px;
+    width: 238px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-5 {
+    height: 176px;
+    left: 361px;
+    top: 178px;
+    width: 238px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-6 {
+    height: 176px;
+    left: 361px;
+    top: 1px;
+    width: 238px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-7 {
+    height: 117px;
+    left: 600px;
+    top: 237px;
+    width: 120px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-8 {
+    height: 117px;
+    left: 600px;
+    top: 119px;
+    width: 120px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-9 {
+    height: 117px;
+    left: 600px;
+    top: 1px;
+    width: 120px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-10 {
+    height: 117px;
+    left: 240px;
+    top: 237px;
+    width: 120px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-11 {
+    height: 117px;
+    left: 240px;
+    top: 119px;
+    width: 120px;
+
+}
+
+.c-layout-52-12a-h .c-layout-slot.pos-12 {
+    height: 117px;
+    left: 240px;
+    top: 1px;
+    width: 120px;
+
+}
+
+/* Layout Template 52-3-h */         
+#c-layout.c-layout-52-3-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-3-h .c-layout-slot.pos-1 {
+    height: 353px;
+    left: 1px;
+    top: 1px;
+    width: 319px;
+
+}
+
+.c-layout-52-3-h .c-layout-slot.pos-2 {
+    height: 353px;
+    left: 321px;
+    top: 1px;
+    width: 318px;
+
+}
+
+.c-layout-52-3-h .c-layout-slot.pos-3 {
+    height: 353px;
+    left: 640px;
+    top: 1px;
+    width: 319px;
+
+}
+
+/* Layout Template 52-4a-h */         
+#c-layout.c-layout-52-4a-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-4a-h .c-layout-slot.pos-1 {
+    height: 176px;
+    left: 1px;
+    top: 1px;
+    width: 478px;
+
+}
+
+.c-layout-52-4a-h .c-layout-slot.pos-2 {
+    height: 176px;
+    left: 481px;
+    top: 1px;
+    width: 478px;
+
+}
+
+.c-layout-52-4a-h .c-layout-slot.pos-3 {
+    height: 176px;
+    left: 1px;
+    top: 178px;
+    width: 478px;
+
+}
+
+.c-layout-52-4a-h .c-layout-slot.pos-4 {
+    height: 176px;
+    left: 481px;
+    top: 178px;
+    width: 478px;
+
+}
+
+/* Layout Template 52-6a-h */         
+#c-layout.c-layout-52-6a-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-6a-h .c-layout-slot.pos-1 {
+    height: 176px;
+    left: 1px;
+    top: 1px;
+    width: 318px;
+
+}
+
+.c-layout-52-6a-h .c-layout-slot.pos-2 {
+    height: 176px;
+    left: 1px;
+    top: 178px;
+    width: 318px;
+
+}
+
+.c-layout-52-6a-h .c-layout-slot.pos-3 {
+    height: 176px;
+    left: 321px;
+    top: 1px;
+    width: 318px;
+
+}
+
+.c-layout-52-6a-h .c-layout-slot.pos-4 {
+    height: 176px;
+    left: 321px;
+    top: 178px;
+    width: 318px;
+
+}
+
+.c-layout-52-6a-h .c-layout-slot.pos-5 {
+    height: 176px;
+    left: 640px;
+    top: 1px;
+    width: 318px;
+
+}
+
+.c-layout-52-6a-h .c-layout-slot.pos-6 {
+    height: 176px;
+    left: 640px;
+    top: 178px;
+    width: 318px;
+
+}
+
+/* Layout Template 52-3a-h */         
+#c-layout.c-layout-52-3a-h {
+    width: 960px;
+    height: 355px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-3a-h .c-layout-slot.pos-1 {
+    height: 315px;
+    left: 240px;
+    top: 20px;
+    width: 130px;
+
+}
+
+.c-layout-52-3a-h .c-layout-slot.pos-2 {
+    height: 315px;
+    left: 415px;
+    top: 20px;
+    width: 130px;
+
+}
+
+.c-layout-52-3a-h .c-layout-slot.pos-3 {
+    height: 315px;
+    left: 590px;
+    top: 20px;
+    width: 130px;
+
+}
+ /* ab hier umgerechnet */
+   
+ /* Layout Template 52-3a1-h */         
+#c-layout.c-layout-52-3a1-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-3a1-h .c-layout-slot.pos-1 {
+    height: 187px;
+    left: 154px;
+    top: 10px;
+    width: 80px;
+
+}
+
+.c-layout-52-3a1-h .c-layout-slot.pos-2 {
+    height: 187px;
+    left: 244px;
+    top: 10px;
+    width: 80px;
+
+}
+
+.c-layout-52-3a1-h .c-layout-slot.pos-3 {
+    height: 187px;
+    left: 334px;
+    top: 10px;
+    width: 80px;
+
+}
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-3a1-h .c-layout-slot.pos-4 {
+    height: 25px;
+    left: 425px;
+    top: 10px;
+    width: 125px;
+
+}
+
+/* Layout Template 52-6a1-h */         
+#c-layout.c-layout-52-6a1-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-6a1-h .c-layout-slot.pos-1 {
+    height: 102px;
+    left: 1px;
+    top: 1px;
+    width: 185px;
+
+}
+
+.c-layout-52-6a1-h .c-layout-slot.pos-2 {
+    height: 102px;
+    left: 187px;
+    top: 1px;
+    width: 186px;
+
+}
+
+.c-layout-52-6a1-h .c-layout-slot.pos-3 {
+    height: 76px;
+    left: 374px;
+    top: 27px;
+    width: 185px;
+
+}
+
+.c-layout-52-6a1-h .c-layout-slot.pos-4 {
+    height: 102px;
+    left: 1px;
+    top: 104px;
+    width: 185px;
+
+}
+
+.c-layout-52-6a1-h .c-layout-slot.pos-5 {
+    height: 102px;
+    left: 187px;
+    top: 104px;
+    width: 186px;
+
+}
+
+.c-layout-52-6a1-h .c-layout-slot.pos-6 {
+    height: 102px;
+    left: 374px;
+    top: 104px;
+    width: 185px;
+
+}
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-6a1-h .c-layout-slot.pos-7 {
+    height: 25px;
+    left: 405px;
+    top: 1px;
+    width: 125px;
+    
+ }
+ 
+ /* Layout Template 52-4a1-h */         
+#c-layout.c-layout-52-4a1-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-4a1-h .c-layout-slot.pos-1 {
+    height: 102px;
+    left: 1px;
+    top: 1px;
+    width: 278px;
+
+}
+
+.c-layout-52-4a1-h .c-layout-slot.pos-2 {
+    height: 76px;
+    left: 281px;
+    top: 27px;
+    width: 278px;
+
+}
+
+.c-layout-52-4a1-h .c-layout-slot.pos-3 {
+    height: 102px;
+    left: 1px;
+    top: 104px;
+    width: 278px;
+
+}
+
+.c-layout-52-4a1-h .c-layout-slot.pos-4 {
+    height: 102px;
+    left: 281px;
+    top: 104px;
+    width: 278px;
+
+}
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-4a1-h .c-layout-slot.pos-5 {
+    height: 25px;
+    left: 359px;
+    top: 1px;
+    width: 125px;
+    
+ }
+ 
+ /* Layout Template 52-31-h */         
+#c-layout.c-layout-52-31-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+
+.c-layout-52-31-h .c-layout-slot.pos-1 {
+    height: 205px;
+    left: 1px;
+    top: 1px;
+    width: 185px;
+
+}
+
+.c-layout-52-31-h .c-layout-slot.pos-2 {
+    height: 205px;
+    left: 187px;
+    top: 1px;
+    width: 186px;
+
+}
+
+.c-layout-52-31-h .c-layout-slot.pos-3 {
+    height: 180px;
+    left: 374px;
+    top: 27px;
+    width: 185px;
+
+}
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-31-h .c-layout-slot.pos-4 {
+    height: 25px;
+    left: 405px;
+    top: 1px;
+    width: 125px;
+    
+ }
+ 
+ /* Layout Template 52-12a1-h */         
+#c-layout.c-layout-52-12a1-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-1 {
+    height: 102px;
+    left: 1px;
+    top: 1px;
+    width: 126px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-2 {
+    height: 102px;
+    left: 1px;
+    top: 104px;
+    width: 126px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-3 {
+    height: 68px;
+    left: 128px;
+    top: 1px;
+    width: 88px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-13 {
+    height: 67px;
+    left: 128px;
+    top: 70px;
+    width: 88px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-5 {
+    height: 68px;
+    left: 128px;
+    top: 138px;
+    width: 88px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-6 {
+    height: 102px;
+    left: 217px;
+    top: 1px;
+    width: 126px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-7 {
+    height: 102px;
+    left: 217px;
+    top: 104px;
+    width: 126px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-8 {
+    height: 68px;
+    left: 344px;
+    top: 1px;
+    width: 88px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-9 {
+    height: 67px;
+    left: 344px;
+    top: 70px;
+    width: 88px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-10 {
+    height: 68px;
+    left: 344px;
+    top: 138px;
+    width: 88px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-11 {
+    height: 76px;
+    left: 433px;
+    top: 27px;
+    width: 126px;
+
+}
+
+.c-layout-52-12a1-h .c-layout-slot.pos-12 {
+    height: 102px;
+    left: 433px;
+    top: 104px;
+    width: 126px;
+
+}
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-12a1-h .c-layout-slot.pos-4 {
+    height: 25px;
+    left: 433px;
+    top: 1px;
+    width: 126px;
+    
+ }
+ 
+ /* Layout Template 52-141-h */         
+#c-layout.c-layout-52-141-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-1 {
+    height: 102px;
+    left: 1px;
+    top: 1px;
+    width: 127px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-2 {
+    height: 102px;
+    left: 1px;
+    top: 104px;
+    width: 127px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-3 {
+    height: 134px;
+    left: 129px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-4 {
+    height: 70px;
+    left: 129px;
+    top: 136px;
+    width: 100px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-5 {
+    height: 70px;
+    left: 230px;
+    top: 1px;
+    width: 100px;
+
+}
+.c-layout-52-141-h .c-layout-slot.pos-6 {
+    height: 134px;
+    left: 230px;
+    top: 72px;
+    width: 100px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-7 {
+    height: 134px;
+    left: 331px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-8 {
+    height: 70px;
+    left: 331px;
+    top: 136px;
+    width: 100px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-9 {
+    height: 59px;
+    left: 432px;
+    top: 27px;
+    width: 40px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-10 {
+    height: 59px;
+    left: 473px;
+    top: 27px;
+    width: 86px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-11 {
+    height: 59px;
+    left: 432px;
+    top: 87px;
+    width: 86px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-12 {
+    height: 59px;
+    left: 519px;
+    top: 87px;
+    width: 40px;
+
+}
+
+.c-layout-52-141-h .c-layout-slot.pos-13 {
+    height: 59px;
+    left: 432px;
+    top: 147px;
+    width: 127px;
+
+}
+
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-141-h .c-layout-slot.pos-14 {
+    height: 25px;
+    left: 433px;
+    top: 1px;
+    width: 125px;
+    
+ }
+ 
+ /* Layout Template 52-131-h */         
+#c-layout.c-layout-52-131-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-1 {
+    height: 102px;
+    left: 1px;
+    top: 1px;
+    width: 127px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-2 {
+    height: 102px;
+    left: 1px;
+    top: 104px;
+    width: 127px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-3 {
+    height: 68px;
+    left: 129px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-4 {
+    height: 67px;
+    left: 129px;
+    top: 70px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-5 {
+    height: 68px;
+    left: 129px;
+    top: 138px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-6 {
+    height: 68px;
+    left: 230px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-7 {
+    height: 67px;
+    left: 230px;
+    top: 70px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-8 {
+    height: 68px;
+    left: 230px;
+    top: 138px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-9 {
+    height: 68px;
+    left: 331px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-10 {
+    height: 67px;
+    left: 331px;
+    top: 70px;
+    width: 100px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-11 {
+    height: 68px;
+    left: 331px;
+    top: 138px;
+    width: 100px;
+
+}
+
+
+.c-layout-52-131-h .c-layout-slot.pos-12 {
+    height: 76px;
+    left: 432px;
+    top: 27px;
+    width: 127px;
+
+}
+
+.c-layout-52-131-h .c-layout-slot.pos-13 {
+    height: 102px;
+    left: 432px;
+    top: 104px;
+    width: 127px;
+
+}
+
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-131-h .c-layout-slot.pos-14 {
+    height: 25px;
+    left: 433px;
+    top: 1px;
+    width: 125px;
+    
+ }
+
+/* Layout Template 52-8a1-h */         
+#c-layout.c-layout-52-8a1-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-1 {
+    height: 102px;
+    left: 1px;
+    top: 1px;
+    width: 127px;
+
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-2 {
+    height: 102px;
+    left: 1px;
+    top: 104px;
+    width: 127px;
+
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-3 {
+    height: 205px;
+    left: 129px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-4 {
+    height: 205px;
+    left: 230px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-5 {
+    height: 205px;
+    left: 331px;
+    top: 1px;
+    width: 100px;
+
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-6 {
+    height: 76px;
+    left: 432px;
+    top: 27px;
+    width: 127px;
+
+}
+
+.c-layout-52-8a1-h .c-layout-slot.pos-7 {
+    height: 102px;
+    left: 432px;
+    top: 104px;
+    width: 127px;
+
+}
+
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-8a1-h .c-layout-slot.pos-8 {
+    height: 25px;
+    left: 433px;
+    top: 1px;
+    width: 125px;
+    
+ }
+ 
+ 
+ /* Layout Template 52-81-h */         
+#c-layout.c-layout-52-81-h {
+    width: 560px;
+    height: 207px;
+    margin: -35% 0 0 -48%;
+}
+
+ 
+ .c-layout-52-81-h .c-layout-slot.pos-1 {
+    height: 112px;
+    left: 0px;
+    top: 0px;
+    width: 112px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-2 {
+    height: 112px;
+    left: 112px;
+    top: 0px;
+    width: 112px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-3 {
+    height: 112px;
+    left: 224px;
+    top: 0px;
+    width: 112px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-4 {
+    height: 85px;
+    left: 336px;
+    top: 27px;
+    width: 112px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-5 {
+    height: 85px;
+    left: 448px;
+    top: 27px;
+    width: 112px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-6 {
+    height: 95px;
+    left: 0px;
+    top: 112px;
+    width: 187px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-7 {
+    height: 95px;
+    left: 187px;
+    top: 112px;
+    width: 186px;
+
+}
+
+ .c-layout-52-81-h .c-layout-slot.pos-8 {
+    height: 95px;
+    left: 373px;
+    top: 112px;
+    width: 187px;
+
+}
+
+ /* Feld für FCE-URL */   
+
+ .c-layout-52-81-h .c-layout-slot.pos-9 {
+    height: 25px;
+    left: 385px;
+    top: 1px;
+    width: 126px;
+    
+ }
+
+
+/*Korrekturen 22.10.2014 */
+
+
+/* Layout Template 43-27-v */
+#c-layout.c-layout-43-27-v {
+    width: 420px;
+    height: 560px;
+    margin: -48% 0 0 -36%;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-1 {
+    height: 54px;
+    left: 12px;
+    top: 15px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-2 {
+    height: 72px;
+    left: 86px;
+    top: 15px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-3 {
+    height: 72px;
+    left: 12px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-4 {
+    height: 54px;
+    left: 68px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-5 {
+    height: 54px;
+    left: 146px;
+    top: 15px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-6 {
+    height: 72px;
+    left: 146px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-7 {
+    height: 72px;
+    left: 220px;
+    top: 15px;
+    width: 54px;
+}
+
+
+.c-layout-43-27-v .c-layout-slot.pos-8 {
+    height: 54px;
+    left: 202px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-9 {
+    height: 54px;
+    left: 280px;
+    top: 15px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v .c-layout-slot.pos-10 {
+    height: 72px;
+    left: 354px;
+    top: 15px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-11 {
+    height: 72px;
+    left: 280px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-12 {
+    height: 54px;
+    left: 336px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-13 {
+    height: 262px;
+    left: 12px;
+    top: 148px;
+    width: 262px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-14 {
+    height: 128px;
+    left: 280px;
+    top: 148px;
+    width: 128px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-15 {
+    height: 128px;
+    left: 280px;
+    top: 282px;
+    width: 128px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-16 {
+    height: 54px;
+    left: 12px;
+    top: 416px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-17 {
+    height: 72px;
+    left: 86px;
+    top: 416px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-18 {
+    height: 72px;
+    left: 12px;
+    top: 472px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-19 {
+    height: 54px;
+    left: 68px;
+    top: 490px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v .c-layout-slot.pos-20 {
+    height: 54px;
+    left: 146px;
+    top: 416px;
+    width: 72px
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-21 {
+    height: 72px;
+    left: 220px;
+    top: 416px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-22 {
+    height: 72px;
+    left: 146px;
+    top: 472px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-23 {
+    height: 54px;
+    left: 202px;
+    top: 490px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v .c-layout-slot.pos-24 {
+    height: 54px;
+    left: 280px;
+    top: 416px;
+    width: 72px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-25 {
+    height: 72px;
+    left: 354px;
+    top: 416px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-26 {
+    height: 72px;
+    left: 280px;
+    top: 472px;
+    width: 54px;
+}
+
+.c-layout-43-27-v .c-layout-slot.pos-27 {
+    height: 54px;
+    left: 336px;
+    top: 490px;
+    width: 72px;
+}
+
+
+
+#c-layout.c-layout-11-6-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+}
+
+.c-layout-11-6-h .c-layout-slot.pos-1 {
+    height: 160px;
+    left: 10px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-6-h .c-layout-slot.pos-2 {
+    height: 160px;
+    left: 180px;
+    top: 10px;
+    width: 330px;
+
+}
+
+.c-layout-11-6-h .c-layout-slot.pos-3 {
+    height: 330px;
+    left: 10px;
+    top: 180px;
+    width: 160px;
+
+}
+
+
+.c-layout-11-6-h .c-layout-slot.pos-4 {
+    height: 160px;
+    left: 180px;
+    top: 180px;
+    width: 160px;
+
+}
+
+.c-layout-11-6-h .c-layout-slot.pos-5 {
+    height: 160px;
+    left: 350px;
+    top: 180px;
+    width: 160px;
+
+}
+
+.c-layout-11-6-h .c-layout-slot.pos-6 {
+    height: 160px;
+    left: 180px;
+    top: 350px;
+    width: 330px;
+
+}
+
+
+
+
+
+/* Layout Template 11-6a-h */
+#c-layout.c-layout-11-6a-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+}
+
+.c-layout-11-6a-h .c-layout-slot.pos-1 {
+    height: 160px;
+    left: 10px;
+    top: 10px;
+    width: 160px;
+
+}
+
+
+.c-layout-11-6a-h .c-layout-slot.pos-2 {
+    height: 160px;
+    left: 180px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-6a-h .c-layout-slot.pos-3 {
+    height: 160px;
+    left: 350px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-6a-h .c-layout-slot.pos-4 {
+    height: 160px;
+    left: 10px;
+    top: 180px;
+    width: 160px;
+
+}
+
+.c-layout-11-6a-h .c-layout-slot.pos-5 {
+    height: 160px;
+    left: 10px;
+    top: 350px;
+    width: 160px;
+
+}
+
+.c-layout-11-6a-h .c-layout-slot.pos-6 {
+    height: 330px;
+    left: 180px;
+    top: 180px;
+    width: 330px;
+
+}
+
+
+
+/* Layout Template 43-29-h */
+#c-layout.c-layout-43-29-h {
+    width: 560px;
+    height: 420px;
+    margin: -36% 0 0 -48%;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-1 {
+    height: 54px;
+    left: 18px;
+    top: 14px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-2 {
+    height: 73px;
+    left: 92px;
+    top: 14px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-3 {
+    height: 73px;
+    left: 18px;
+    top: 69px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-4 {
+    height: 54px;
+    left: 73px;
+    top: 88px;
+    width: 73px;
+}
+
+
+.c-layout-43-29-h .c-layout-slot.pos-5 {
+    height: 128px;
+    left: 150px;
+    top: 14px;
+    width: 128px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-6 {
+    height: 128px;
+    left: 282px;
+    top: 14px;
+    width: 128px;
+}
+
+
+.c-layout-43-29-h .c-layout-slot.pos-7 {
+    height: 54px;
+    left: 414px;
+    top: 14px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-8 {
+    height: 73px;
+    left: 488px;
+    top: 14px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-9 {
+    height: 73px;
+    left: 414px;
+    top: 69px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-10 {
+    height: 54px;
+    left: 469px;
+    top: 88px;
+    width: 73px;
+}
+
+
+
+
+.c-layout-43-29-h .c-layout-slot.pos-11 {
+    height: 128px;
+    left: 18px;
+    top: 146px;
+    width: 128px;
+}
+
+
+.c-layout-43-29-h .c-layout-slot.pos-12 {
+    height: 128px;
+    left: 150px;
+    top: 146px;
+    width: 260px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-13 {
+    height: 128px;
+    left: 414px;
+    top: 146px;
+    width: 128px;
+}
+
+
+
+
+
+
+
+.c-layout-43-29-h .c-layout-slot.pos-14 {
+    height: 54px;
+    left: 18px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-15 {
+    height: 73px;
+    left: 92px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-16 {
+    height: 73px;
+    left: 18px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-17 {
+    height: 54px;
+    left: 73px;
+    top: 352px;
+    width: 73px;
+}
+
+
+.c-layout-43-29-h .c-layout-slot.pos-18 {
+    height: 54px;
+    left: 150px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-19 {
+    height: 73px;
+    left: 224px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-20 {
+    height: 73px;
+    left: 150px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-21 {
+    height: 54px;
+    left: 205px;
+    top: 352px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-22 {
+    height: 54px;
+    left: 282px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-23 {
+    height: 73px;
+    left: 356px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-24 {
+    height: 73px;
+    left: 282px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-25 {
+    height: 54px;
+    left: 337px;
+    top: 352px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-26 {
+    height: 54px;
+    left: 414px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-27 {
+    height: 73px;
+    left: 488px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-28 {
+    height: 73px;
+    left: 414px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h .c-layout-slot.pos-29 {
+    height: 54px;
+    left: 469px;
+    top: 352px;
+    width: 73px;
+}
+
+
+/* Layout Template 11-6b-h */
+#c-layout.c-layout-11-6b-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}      
+
+.c-layout-11-6b-h .c-layout-slot.pos-1 {
+    height: 245px;
+    left: 10px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-6b-h .c-layout-slot.pos-2 {
+    height: 245px;
+    left: 180px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-6b-h .c-layout-slot.pos-3 {
+    height: 245px;
+    left: 350px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-6b-h .c-layout-slot.pos-4 {
+    height: 245px;
+    left: 10px;
+    top: 265px;
+    width: 160px;
+
+}
+
+.c-layout-11-6b-h .c-layout-slot.pos-5 {
+    height: 245px;
+    left: 180px;
+    top: 265px;
+    width: 160px;
+
+}
+
+.c-layout-11-6b-h .c-layout-slot.pos-6 {
+    height: 245px;
+    left: 350px;
+    top: 265px;
+    width: 160px;
+
+}
+
+
+
+/* Layout Template 11-7-h */
+#c-layout.c-layout-11-7-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}      
+.c-layout-11-7-h .c-layout-slot.pos-1 {
+    height: 160px;
+    left: 10px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-7-h .c-layout-slot.pos-2 {
+    height: 160px;
+    left: 10px;
+    top: 180px;
+    width: 160px;
+
+}
+
+.c-layout-11-7-h .c-layout-slot.pos-3 {
+    height: 160px;
+    left: 10px;
+    top: 350px;
+    width: 160px;
+
+}
+
+.c-layout-11-7-h .c-layout-slot.pos-4 {
+    height: 330px;
+    left: 180px;
+    top: 10px;
+    width: 160px;
+
+}
+
+.c-layout-11-7-h .c-layout-slot.pos-5 {
+    height: 160px;
+    left: 180px;
+    top: 350px;
+    width: 330px;
+
+}
+
+.c-layout-11-7-h .c-layout-slot.pos-6 {
+    height: 160px;
+    left: 350px;
+    top: 180px;
+    width: 160px;
+
+}
+
+.c-layout-11-7-h .c-layout-slot.pos-7 {
+    height: 160px;
+    left: 350px;
+    top: 10px;
+    width: 160px;
+
+}
+
+/* Layout Template 11-4a-h */
+#c-layout.c-layout-11-4a-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}
+
+.c-layout-11-4a-h .c-layout-slot.pos-1 {
+    height: 245px;
+    left: 10px;
+    top: 10px;
+    width: 265px;
+
+}
+
+.c-layout-11-4a-h .c-layout-slot.pos-2 {
+    height: 245px;
+    left: 285px;
+    top: 10px;
+    width: 225px;
+
+}
+
+.c-layout-11-4a-h .c-layout-slot.pos-3 {
+    height: 245px;
+    left: 10px;
+    top: 265px;
+    width: 180px;
+
+}
+
+.c-layout-11-4a-h .c-layout-slot.pos-4 {
+    height: 245px;
+    left: 200px;
+    top: 265px;
+    width: 310px;
+
+}
+
+
+
+/* Layout Template 11-9b-h */
+#c-layout.c-layout-11-9b-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-1 {
+    height: 240px;
+    left: 10px;
+    top: 10px;
+    width: 120px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-2 {
+    height: 120px;
+    left: 140px;
+    top: 10px;
+    width: 120px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-3 {
+    height: 120px;
+    left: 270px;
+    top: 10px;
+    width: 240px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-4 {
+    height: 120px;
+    left: 390px;
+    top: 140px;
+    width: 120px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-5 {
+    height: 240px;
+    left: 390px;
+    top: 270px;
+    width: 120px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-6 {
+    height: 120px;
+    left: 260px;
+    top: 390px;
+    width: 120px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-7 {
+    height: 120px;
+    left: 10px;
+    top: 390px;
+    width: 240px;
+
+}
+
+.c-layout-11-9b-h .c-layout-slot.pos-8 {
+    height: 120px;
+    left: 10px;
+    top: 260px;
+    width: 120px;
+
+}
+
+
+.c-layout-11-9b-h .c-layout-slot.pos-9 {
+    height: 240px;
+    left: 140px;
+    top: 140px;
+    width: 240px;
+
+}
+
+
+
+/* Layout Template 11-11-h */
+#c-layout.c-layout-11-11-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-1 {
+    height: 122px;
+    left: 10px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-2 {
+    height: 122px;
+    left: 136px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-3 {
+    height: 122px;
+    left: 262px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-4 {
+    height: 122px;
+    left: 388px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-5 {
+    height: 122px;
+    left: 10px;
+    top: 136px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-6 {
+    height: 122px;
+    left: 10px;
+    top: 262px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-7 {
+    height: 248px;
+    left: 136px;
+    top: 136px;
+    width: 374px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-8 {
+    height: 122px;
+    left: 10px;
+    top: 388px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-9 {
+    height: 122px;
+    left: 136px;
+    top: 388px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-10 {
+    height: 122px;
+    left: 262px;
+    top: 388px;
+    width: 122px;
+
+}
+
+.c-layout-11-11-h .c-layout-slot.pos-11 {
+    height: 122px;
+    left: 388px;
+    top: 388px;
+    width: 122px;
+
+}
+
+
+/* Layout Template 11-15-h */
+#c-layout.c-layout-11-15-h {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-1 {
+    height: 100px;
+    left: 10px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-2 {
+    height: 133px;
+    left: 136px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-3 {
+    height: 133px;
+    left: 262px;
+    top: 10px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-4 {
+    height: 100px;
+    left: 388px;
+    top: 10px;
+    width: 122px;
+
+}
+.c-layout-11-15-h .c-layout-slot.pos-5 {
+    height: 166px;
+    left: 10px;
+    top: 114px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-6 {
+    height: 133px;
+    left: 136px;
+    top: 147px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-7 {
+    height: 133px;
+    left: 262px;
+    top: 147px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-8 {
+    height: 166px;
+    left: 388px;
+    top: 114px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-9 {
+    height: 100px;
+    left: 10px;
+    top: 284px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-10 {
+    height: 100px;
+    left: 136px;
+    top: 284px;
+    width: 248px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-11 {
+    height: 100px;
+    left: 388px;
+    top: 284px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-12 {
+    height: 122px;
+    left: 10px;
+    top: 388px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-13 {
+    height: 122px;
+    left: 136px;
+    top: 388px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-14 {
+    height: 122px;
+    left: 262px;
+    top: 388px;
+    width: 122px;
+
+}
+
+.c-layout-11-15-h .c-layout-slot.pos-15 {
+    height: 122px;
+    left: 388px;
+    top: 388px;
+    width: 122px;
+
+}
+
+
+/* Layout Template 43-6-h */         
+#c-layout.c-layout-43-6-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-6-h .c-layout-slot.pos-1 {
+    height: 126px;
+    left: 10px;
+    top: 12px;
+    width: 176px;
+
+}
+
+.c-layout-43-6-h .c-layout-slot.pos-2 {
+    height: 126px;
+    left: 10px;
+    top: 144px;
+    width: 176px;
+
+}
+
+.c-layout-43-6-h .c-layout-slot.pos-3 {
+    height: 126px;
+    left: 10px;
+    top: 276px;
+    width: 176px;
+
+}
+
+.c-layout-43-6-h .c-layout-slot.pos-4 {
+    height: 126px;
+    left: 192px;
+    top: 12px;
+    width: 176px;
+
+}
+
+.c-layout-43-6-h .c-layout-slot.pos-5 {
+    height: 126px;
+    left: 374px;
+    top: 12px;
+    width: 176px;
+
+}
+
+.c-layout-43-6-h .c-layout-slot.pos-6 {
+    height: 258px;
+    left: 192px;
+    top: 144px;
+    width: 358px;
+
+}
+
+/* Layout Template 43-6a-h */         
+#c-layout.c-layout-43-6a-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-6a-h .c-layout-slot.pos-1 {
+    height: 400px;
+    left: 340px;
+    top: 10px;
+    width: 210px;
+
+}
+
+.c-layout-43-6a-h .c-layout-slot.pos-2 {
+    height: 265px;
+    left: 10px;
+    top: 10px;
+    width: 170px;
+
+}
+
+.c-layout-43-6a-h .c-layout-slot.pos-3 {
+    height: 130px;
+    left: 10px;
+    top: 280px;
+    width: 170px;
+
+}
+
+.c-layout-43-6a-h .c-layout-slot.pos-4 {
+    height: 130px;
+    left: 185px;
+    top: 10px;
+    width: 150px;
+
+}
+
+.c-layout-43-6a-h .c-layout-slot.pos-5 {
+    height: 130px;
+    left: 185px;
+    top: 145px;
+    width: 150px;
+
+}
+
+.c-layout-43-6a-h .c-layout-slot.pos-6 {
+    height: 130px;
+    left: 185px;
+    top: 280px;
+    width: 150px;
+
+}
+
+
+/* Layout Template 43-7b-h */         
+#c-layout.c-layout-43-7b-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-1 {
+    height: 276px;
+    left: 10px;
+    top: 10px;
+    width: 138px;
+
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-2 {
+    height: 120px;
+    left: 10px;
+    top: 290px;
+    width: 197px;
+
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-3 {
+    height: 120px;
+    left: 211px;
+    top: 290px;
+    width: 197px;
+
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-4 {
+    height: 276px;
+    left: 412px;
+    top: 134px;
+    width: 138px;
+
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-5 {
+    height: 120px;
+    left: 412px;
+    top: 10px;
+    width: 138px;
+
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-6 {
+    height: 100px;
+    left: 152px;
+    top: 10px;
+    width: 256px;
+
+}
+
+.c-layout-43-7b-h .c-layout-slot.pos-7 {
+    height: 172px;
+    left: 152px;
+    top: 114px;
+    width: 256px;
+
+}
+
+
+/* Layout Template 43-7a-h */         
+#c-layout.c-layout-43-7a-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-1 {
+    height: 106px;
+    left: 10px;
+    top: 10px;
+    width: 106px;
+
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-2 {
+    height: 106px;
+    left: 121px;
+    top: 10px;
+    width: 212px;
+
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-3 {
+    height: 289px;
+    left: 338px;
+    top: 10px;
+    width: 212px;
+
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-4 {
+    height: 106px;
+    left: 444px;
+    top: 304px;
+    width: 106px;
+
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-5 {
+    height: 106px;
+    left: 227px;
+    top: 304px;
+    width: 212px;
+
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-6 {
+    height: 178px;
+    left: 227px;
+    top: 121px;
+    width: 106px;
+
+}
+
+.c-layout-43-7a-h .c-layout-slot.pos-7 {
+    height: 289px;
+    left: 10px;
+    top: 121px;
+    width: 212px;
+
+}
+
+
+/* Layout Template 43-7-h */         
+#c-layout.c-layout-43-7-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-1 {
+    height: 197px;
+    left: 10px;
+    top: 10px;
+    width: 197px;
+
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-2 {
+    height: 129px;
+    left: 213px;
+    top: 10px;
+    width: 134px;
+
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-3 {
+    height: 197px;
+    left: 353px;
+    top: 10px;
+    width: 197px;
+
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-4 {
+    height: 197px;
+    left: 353px;
+    top: 213px;
+    width: 197px;
+
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-5 {
+    height: 129px;
+    left: 213px;
+    top: 281px;
+    width: 134px;
+
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-6 {
+    height: 197px;
+    left: 10px;
+    top: 213px;
+    width: 197px;
+
+}
+
+.c-layout-43-7-h .c-layout-slot.pos-7 {
+    height: 130px;
+    left: 213px;
+    top: 145px;
+    width: 134px;
+
+}
+
+
+/* Layout Template 43-8-h */         
+#c-layout.c-layout-43-8-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-8-h .c-layout-slot.pos-1 {
+    height: 264px;
+    left: 10px;
+    top: 10px;
+    width: 132px;
+
+}
+
+.c-layout-43-8-h .c-layout-slot.pos-2 {
+    height: 132px;
+    left: 146px;
+    top: 10px;
+    width: 132px;
+
+}
+
+.c-layout-43-8-h .c-layout-slot.pos-3 {
+    height: 132px;
+    left: 282px;
+    top: 10px;
+    width: 268px;
+
+}
+
+.c-layout-43-8-h .c-layout-slot.pos-4 {
+    height: 264px;
+    left: 418px;
+    top: 146px;
+    width: 132px;
+
+}
+
+.c-layout-43-8-h .c-layout-slot.pos-5 {
+    height: 132px;
+    left: 282px;
+    top: 278px;
+    width: 132px;
+
+}
+
+
+.c-layout-43-8-h .c-layout-slot.pos-6 {
+    height: 128px;
+    left: 146px;
+    top: 146px;
+    width: 268px;
+
+}
+
+
+.c-layout-43-8-h .c-layout-slot.pos-7 {
+    height: 132px;
+    left: 146px;
+    top: 278px;
+    width: 132px;
+
+}
+
+
+.c-layout-43-8-h .c-layout-slot.pos-8 {
+    height: 132px;
+    left: 10px;
+    top: 278px;
+    width: 132px;
+
+}
+
+
+/* Layout Template 43-9b-h */         
+#c-layout.c-layout-43-9b-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-1 {
+    height: 131px;
+    left: 10px;
+    top: 10px;
+    width: 200px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-2 {
+    height: 131px;
+    left: 214px;
+    top: 10px;
+    width: 200px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-3 {
+    height: 131px;
+    left: 418px;
+    top: 10px;
+    width: 132px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-4 {
+    height: 130px;
+    left: 10px;
+    top: 145px;
+    width: 177px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-5 {
+    height: 130px;
+    left: 191px;
+    top: 145px;
+    width: 178px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-6 {
+    height: 130px;
+    left: 373px;
+    top: 145px;
+    width: 177px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-7 {
+    height: 131px;
+    left: 10px;
+    top: 279px;
+    width: 132px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-8 {
+    height: 131px;
+    left: 146px;
+    top: 279px;
+    width: 200px;
+
+}
+
+.c-layout-43-9b-h .c-layout-slot.pos-9 {
+    height: 131px;
+    left: 350px;
+    top: 279px;
+    width: 200px;
+
+}
+
+
+/* Layout Template 43-9a-h */         
+#c-layout.c-layout-43-9a-h {
+    width: 560px;
+    height: 420px;
+    margin: -35% 0 0 -48%;
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-1 {
+    height: 130px;
+    left: 10px;
+    top: 10px;
+    width: 130px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-2 {
+    height: 130px;
+    left: 145px;
+    top: 10px;
+    width: 270px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-3 {
+    height: 130px;
+    left: 420px;
+    top: 10px;
+    width: 130px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-4 {
+    height: 130px;
+    left: 420px;
+    top: 145px;
+    width: 130px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-5 {
+    height: 130px;
+    left: 420px;
+    top: 280px;
+    width: 130px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-6 {
+    height: 130px;
+    left: 285px;
+    top: 145px;
+    width: 130px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-7 {
+    height: 130px;
+    left: 285px;
+    top: 280px;
+    width: 130px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-8 {
+    height: 265px;
+    left: 145px;
+    top: 145px;
+    width: 135px;
+
+}
+
+.c-layout-43-9a-h .c-layout-slot.pos-9 {
+    height: 265px;
+    left: 10px;
+    top: 145px;
+    width: 130px;
+
+}
+
+
+/* Layout Template 43-27-v-txt */
+#c-layout.c-layout-43-27-v-txt {
+    width: 420px;
+    height: 560px;
+    margin: -48% 0 0 -36%;
+}
+
+
+.c-layout-43-27-v-txt .c-layout-text {
+    width: 262px;
+    top: 370px;
+    left: 12px;
+}
+
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-1 {
+    height: 54px;
+    left: 12px;
+    top: 15px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-2 {
+    height: 72px;
+    left: 86px;
+    top: 15px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-3 {
+    height: 72px;
+    left: 12px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-4 {
+    height: 54px;
+    left: 68px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-5 {
+    height: 54px;
+    left: 146px;
+    top: 15px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-6 {
+    height: 72px;
+    left: 146px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-7 {
+    height: 72px;
+    left: 220px;
+    top: 15px;
+    width: 54px;
+}
+
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-8 {
+    height: 54px;
+    left: 202px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-9 {
+    height: 54px;
+    left: 280px;
+    top: 15px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-10 {
+    height: 72px;
+    left: 354px;
+    top: 15px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-11 {
+    height: 72px;
+    left: 280px;
+    top: 71px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-12 {
+    height: 54px;
+    left: 336px;
+    top: 89px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-13 {
+    height: 200px;
+    left: 12px;
+    top: 148px;
+    width: 262px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-14 {
+    height: 128px;
+    left: 280px;
+    top: 148px;
+    width: 128px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-15 {
+    height: 128px;
+    left: 280px;
+    top: 282px;
+    width: 128px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-16 {
+    height: 54px;
+    left: 12px;
+    top: 416px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-17 {
+    height: 72px;
+    left: 86px;
+    top: 416px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-18 {
+    height: 72px;
+    left: 12px;
+    top: 472px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-19 {
+    height: 54px;
+    left: 68px;
+    top: 490px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-20 {
+    height: 54px;
+    left: 146px;
+    top: 416px;
+    width: 72px
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-21 {
+    height: 72px;
+    left: 220px;
+    top: 416px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-22 {
+    height: 72px;
+    left: 146px;
+    top: 472px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-23 {
+    height: 54px;
+    left: 202px;
+    top: 490px;
+    width: 72px;
+}
+
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-24 {
+    height: 54px;
+    left: 280px;
+    top: 416px;
+    width: 72px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-25 {
+    height: 72px;
+    left: 354px;
+    top: 416px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-26 {
+    height: 72px;
+    left: 280px;
+    top: 472px;
+    width: 54px;
+}
+
+.c-layout-43-27-v-txt .c-layout-slot.pos-27 {
+    height: 54px;
+    left: 336px;
+    top: 490px;
+    width: 72px;
+}
+
+
+.c-layout-44-29-h-txt .c-layout-text {
+    width: 266px;
+    top: 160px;
+    left: 147px;
+}
+
+
+
+
+/* Layout Template 43-29-h-txt */
+#c-layout.c-layout-43-29-h-txt {
+    width: 560px;
+    height: 420px;
+    margin: -36% 0 0 -48%;
+}
+
+.c-layout-43-29-h-txt .c-layout-text {
+    width: 260px;
+    top: 100px;
+    left: 150px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-1 {
+    height: 54px;
+    left: 18px;
+    top: 14px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-2 {
+    height: 73px;
+    left: 92px;
+    top: 14px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-3 {
+    height: 73px;
+    left: 18px;
+    top: 69px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-4 {
+    height: 54px;
+    left: 73px;
+    top: 88px;
+    width: 73px;
+}
+
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-5 {
+    height: 80px;
+    left: 150px;
+    top: 14px;
+    width: 128px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-6 {
+    height: 80px;
+    left: 282px;
+    top: 14px;
+    width: 128px;
+}
+
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-7 {
+    height: 54px;
+    left: 414px;
+    top: 14px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-8 {
+    height: 73px;
+    left: 488px;
+    top: 14px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-9 {
+    height: 73px;
+    left: 414px;
+    top: 69px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-10 {
+    height: 54px;
+    left: 469px;
+    top: 88px;
+    width: 73px;
+}
+
+
+
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-11 {
+    height: 128px;
+    left: 18px;
+    top: 146px;
+    width: 128px;
+}
+
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-12 {
+    height: 128px;
+    left: 150px;
+    top: 146px;
+    width: 260px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-13 {
+    height: 128px;
+    left: 414px;
+    top: 146px;
+    width: 128px;
+}
+
+
+
+
+
+
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-14 {
+    height: 54px;
+    left: 18px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-15 {
+    height: 73px;
+    left: 92px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-16 {
+    height: 73px;
+    left: 18px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-17 {
+    height: 54px;
+    left: 73px;
+    top: 352px;
+    width: 73px;
+}
+
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-18 {
+    height: 54px;
+    left: 150px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-19 {
+    height: 73px;
+    left: 224px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-20 {
+    height: 73px;
+    left: 150px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-21 {
+    height: 54px;
+    left: 205px;
+    top: 352px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-22 {
+    height: 54px;
+    left: 282px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-23 {
+    height: 73px;
+    left: 356px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-24 {
+    height: 73px;
+    left: 282px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-25 {
+    height: 54px;
+    left: 337px;
+    top: 352px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-26 {
+    height: 54px;
+    left: 414px;
+    top: 278px;
+    width: 73px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-27 {
+    height: 73px;
+    left: 488px;
+    top: 278px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-28 {
+    height: 73px;
+    left: 414px;
+    top: 333px;
+    width: 54px;
+}
+
+.c-layout-43-29-h-txt .c-layout-slot.pos-29 {
+    height: 54px;
+    left: 469px;
+    top: 352px;
+    width: 73px;
+}
+
+
+/***********************************
+*   VDAY
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-vday,
+#c-layout.c-layout-43-3-h-vday2 {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-vday.png') 0% 0%/100%;
+}
+
+#c-layout.c-layout-43-3-h-vday2 {
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-vday2.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-vday .c-layout-text,
+.c-layout-43-3-h-vday2 .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-vday .c-layout-slot.pos-1,
+.c-layout-43-3-h-vday2 .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-vday .c-layout-slot.pos-2,
+.c-layout-43-3-h-vday2 .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-vday .c-layout-slot.pos-3,
+.c-layout-43-3-h-vday2 .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-vday,
+#c-layout.c-layout-43-3-h-txt-vday2 {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-txt-vday.png') 0% 0%/100%;
+}
+
+#c-layout.c-layout-43-3-h-txt-vday2 {
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-txt-vday2.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-vday .c-layout-text,
+.c-layout-43-3-h-txt-vday2 .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-vday .c-layout-slot.pos-1,
+.c-layout-43-3-h-txt-vday2 .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-vday .c-layout-slot.pos-2,
+.c-layout-43-3-h-txt-vday2 .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-vday .c-layout-slot.pos-3,
+.c-layout-43-3-h-txt-vday2 .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-vday */
+#c-layout.c-layout-11-12-h-vday,
+#c-layout.c-layout-11-12-h-vday2 {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-vday.png') 0% 0%/100%;
+}
+
+#c-layout.c-layout-11-12-h-vday2 {
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-vday2.png') 0% 0%/100%;
+}
+
+
+.c-layout-11-12-h-vday .c-layout-text,
+.c-layout-11-12-h-vday2 .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-1,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-2,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-3,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-4,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-5,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-6,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-7,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-8,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-9,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-10,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-11,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vday .c-layout-slot.pos-12,
+.c-layout-11-12-h-vday2 .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-vday */
+#c-layout.c-layout-11-12-h-txt-vday,
+#c-layout.c-layout-11-12-h-txt-vday2 {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-txt-vday.png') 0% 0%/100%;
+}
+
+#c-layout.c-layout-11-12-h-txt-vday2 {
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-txt-vday2.png') 0% 0%/100%;
+}
+
+
+.c-layout-11-12-h-txt-vday .c-layout-text,
+.c-layout-11-12-h-txt-vday2 .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-1,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-2,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-3,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-4,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-5,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-6,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-7,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-8,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-9,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-10,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-11,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vday .c-layout-slot.pos-12,
+.c-layout-11-12-h-txt-vday2 .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-vday */
+#c-layout.c-layout-43-14-v-vday,
+#c-layout.c-layout-43-14-v-vday2 {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-vday.png') 0% 0%/100%;
+}
+
+#c-layout.c-layout-43-14-v-vday2 {
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-vday2.png') 0% 0%/100%;
+}
+
+
+.c-layout-43-14-v-vday .c-layout-text,
+.c-layout-43-14-v-vday2 .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-1,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-2,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-3,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-4,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-5,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-6,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-7,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-8,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-9,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-10,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-11,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-12,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-13,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vday .c-layout-slot.pos-14,
+.c-layout-43-14-v-vday2 .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-vday */
+#c-layout.c-layout-43-14-v-txt-vday,
+#c-layout.c-layout-43-14-v-txt-vday2 {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-txt-vday.png') 0% 0%/100%;
+}
+
+#c-layout.c-layout-43-14-v-txt-vday2 {
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-txt-vday2.png') 0% 0%/100%;
+}
+
+
+.c-layout-43-14-v-txt-vday .c-layout-text,
+.c-layout-43-14-v-txt-vday2 .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-1,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-2,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-3,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-4,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-5,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-6,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-7,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-8,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-9,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-10,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-11,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-12,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-13,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vday .c-layout-slot.pos-14,
+.c-layout-43-14-v-txt-vday2 .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+
+
+
+/***********************************
+*   SPECIALS - love
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-love {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-love.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-love .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-love .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-love .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-love .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-love {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-love.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-love .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-love .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-love .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-love .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-love */
+#c-layout.c-layout-11-12-h-love {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-love.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-love .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-love .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-love */
+#c-layout.c-layout-11-12-h-txt-love {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-love.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-love .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-love */
+#c-layout.c-layout-43-14-v-love {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-love.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-love .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-love .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-love */
+#c-layout.c-layout-43-14-v-txt-love {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-love.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-love .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+
+
+/***********************************
+*   SPECIALS - child
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-child {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-child.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-child .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-child .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-child .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-child .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-child {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-child.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-child .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-child .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-child .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-child .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-child */
+#c-layout.c-layout-11-12-h-child {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-child.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-child .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-child .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-child */
+#c-layout.c-layout-11-12-h-txt-child {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-child.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-child .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-child */
+#c-layout.c-layout-43-14-v-child {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-child.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-child .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-child .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-child */
+#c-layout.c-layout-43-14-v-txt-child {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-child.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-child .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+
+
+
+/***********************************
+*   SPECIALS - pattern
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-pattern {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-pattern.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-pattern .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-pattern .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-pattern .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-pattern .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-pattern {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-pattern.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-pattern .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-pattern .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-pattern .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-pattern .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-pattern */
+#c-layout.c-layout-11-12-h-pattern {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-pattern.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-pattern .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-pattern .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-pattern */
+#c-layout.c-layout-11-12-h-txt-pattern {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-pattern.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-pattern .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-pattern */
+#c-layout.c-layout-43-14-v-pattern {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-pattern.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-pattern .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-pattern .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-pattern */
+#c-layout.c-layout-43-14-v-txt-pattern {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-pattern.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-pattern .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+
+
+/***********************************
+*   SPECIALS - sport
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-sport {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-sport.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-sport .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-sport .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-sport .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-sport .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-sport {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-sport.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-sport .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-sport .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-sport .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-sport .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-sport */
+#c-layout.c-layout-11-12-h-sport {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-sport.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-sport .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-sport .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-sport */
+#c-layout.c-layout-11-12-h-txt-sport {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-sport.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-sport .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-sport */
+#c-layout.c-layout-43-14-v-sport {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-sport.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-sport .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-sport .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-sport */
+#c-layout.c-layout-43-14-v-txt-sport {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-sport.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-sport .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+
+
+
+/***********************************
+*   SPECIALS - animal
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-animal {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-animal.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-animal .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-animal .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-animal .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-animal .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-animal {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-animal.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-animal .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-animal .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-animal .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-animal .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-animal */
+#c-layout.c-layout-11-12-h-animal {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-animal.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-animal .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-animal .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-animal */
+#c-layout.c-layout-11-12-h-txt-animal {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-animal.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-animal .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-animal */
+#c-layout.c-layout-43-14-v-animal {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-animal.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-animal .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-animal .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-animal */
+#c-layout.c-layout-43-14-v-txt-animal {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-animal.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-animal .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/***********************************
+*   SPECIALS - urlaub
+***********************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-vacation1 {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-vacation1.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-vacation1 .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-vacation1 .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-vacation1 .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-vacation1 .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-vacation1 {
+/*    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-vacation1.png') 0% 0%/100%;*/
+}
+
+.c-layout-43-3-h-txt-vacation1 .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-vacation1 .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 100%;
+
+}
+
+.c-layout-43-3-h-txt-vacation1 .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 100%;
+
+}
+
+.c-layout-43-3-h-txt-vacation1 .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 100%;
+
+}
+
+/* Layout Template 11-12-h-vacation1 */
+#c-layout.c-layout-11-12-h-vacation1 {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-vacation1.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation1 .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-vacation1 */
+#c-layout.c-layout-11-12-h-txt-vacation1 {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-vacation1.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation1 .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-vacation1 */
+#c-layout.c-layout-43-14-v-vacation1 {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-vacation1.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation1 .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-vacation1 */
+#c-layout.c-layout-43-14-v-txt-vacation1 {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-vacation1.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation1 .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/*****************************************/
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-vacation2 {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-vacation2.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-vacation2 .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-vacation2 .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-vacation2 .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-vacation2 .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 43-3-h-txt */
+#c-layout.c-layout-43-3-h-txt-vacation2 {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-vacation2.png') 0% 0%/100%;
+}
+
+.c-layout-43-3-h-txt-vacation2 .c-layout-text {
+    width: 530px;
+    top: 330px;
+    left: 15px;
+}
+
+.c-layout-43-3-h-txt-vacation2 .c-layout-slot.pos-1 {
+    height: 225px;
+    left: 15px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-vacation2 .c-layout-slot.pos-2 {
+    height: 225px;
+    left: 195px;
+    top: 55px;
+    width: 170px;
+
+}
+
+.c-layout-43-3-h-txt-vacation2 .c-layout-slot.pos-3 {
+    height: 225px;
+    left: 375px;
+    top: 55px;
+    width: 170px;
+
+}
+
+/* Layout Template 11-12-h-vacation2 */
+#c-layout.c-layout-11-12-h-vacation2 {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-vacation2.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-vacation2 .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 11-12-h-txt-vacation2 */
+#c-layout.c-layout-11-12-h-txt-vacation2 {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-12-h-vacation2.png') 0% 0%/100%;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-text {
+    width: 450px;
+    top: 440px;
+    left: 35px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-1 {
+    height: 105px;
+    left: 35px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-2 {
+    height: 105px;
+    left: 150px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-3 {
+    height: 105px;
+    left: 265px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-4 {
+    height: 105px;
+    left: 380px;
+    top: 60px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-5 {
+    height: 105px;
+    left: 35px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-6 {
+    height: 105px;
+    left: 150px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-7 {
+    height: 105px;
+    left: 265px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-8 {
+    height: 105px;
+    left: 380px;
+    top: 175px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-9 {
+    height: 105px;
+    left: 35px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-10 {
+    height: 105px;
+    left: 150px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-11 {
+    height: 105px;
+    left: 265px;
+    top: 290px;
+    width: 105px;
+}
+
+.c-layout-11-12-h-txt-vacation2 .c-layout-slot.pos-12 {
+    height: 105px;
+    left: 380px;
+    top: 290px;
+    width: 105px;
+}
+
+/* Layout Template 43-14-v-vacation2 */
+#c-layout.c-layout-43-14-v-vacation2 {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-vacation2.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-vacation2 .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+/* Layout Template 43-14-v-txt-vacation2 */
+#c-layout.c-layout-43-14-v-txt-vacation2 {
+    width: 420px;
+    height: 560px;
+    margin: -49% 0 0 -38%;
+    background: url('http://fotocollage-erstellen.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-14-v-vacation2.png') 0% 0%/100%;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-text {
+    width: 334px;
+    top: 490px;
+    left: 43px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-1 {
+    height: 69px;
+    left: 43px;
+    top: 50px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-2 {
+    height: 92px;
+    left: 139px;
+    top: 50px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-3 {
+    height: 92px;
+    left: 43px;
+    top: 123px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-4 {
+    height: 69px;
+    left: 116px;
+    top: 146px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-5 {
+    height: 69px;
+    left: 43px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-6 {
+    height: 69px;
+    left: 139px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-7 {
+    height: 165px;
+    left: 212px;
+    top: 50px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-8 {
+    height: 165px;
+    left: 43px;
+    top: 292px;
+    width: 165px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-9 {
+    height: 69px;
+    left: 212px;
+    top: 219px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-10 {
+    height: 92px;
+    left: 308px;
+    top: 219px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-11 {
+    height: 92px;
+    left: 212px;
+    top: 292px;
+    width: 69px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-12 {
+    height: 69px;
+    left: 285px;
+    top: 315px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-13 {
+    height: 69px;
+    left: 212px;
+    top: 388px;
+    width: 92px;
+}
+
+.c-layout-43-14-v-txt-vacation2 .c-layout-slot.pos-14 {
+    height: 69px;
+    left: 308px;
+    top: 388px;
+    width: 69px;
+}
+
+
+/* Layout Template 43-3-h-calendar2016_en */
+#c-layout.c-layout-43-3-h-calendar2016_en {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://photo-collage.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-3-h-calendar2016_en.png') 0% 0%/100%;
+}
+.c-layout-43-3-h-calendar2016_en .c-layout-slot{
+    height: 222px;
+    width: 170px;
+}
+.c-layout-43-3-h-calendar2016_en .c-layout-slot.pos-1 {
+    left: 14px;
+    top: 30px;
+}
+.c-layout-43-3-h-calendar2016_en .c-layout-slot.pos-2 {
+    left: 195px;
+    top: 30px;
+}
+.c-layout-43-3-h-calendar2016_en .c-layout-slot.pos-3 {
+    left: 374.5px;
+    top: 30px;
+}
+
+
+/* Layout Template 43-5-h-calendar2016_en */
+#c-layout.c-layout-43-5-h-calendar2016_en {
+    width: 560px;
+    height: 420px;
+    margin: -39% 0 0 -49%;
+    background: url('http://photo-collage.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-43-5-h-calendar2016_en.png') 0% 0%/100%;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-1,
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-2,
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-4,
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-5 {
+    height: 104.5px;
+    width: 170px;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-3 {
+    height: 221.5px;
+    width: 170px;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-1 {
+    left: 14px;
+    top: 30px;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-2 {
+    left: 14px;
+    top: 146px;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-3 {
+    left: 194.5px;
+    top: 30px;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-4 {
+    left: 374.5px;
+    top: 30px;
+}
+.c-layout-43-5-h-calendar2016_en .c-layout-slot.pos-5 {
+    left: 374.5px;
+    top: 146px;
+}
+
+
+/* Layout Template 11-11-h-calendar2016_en */
+#c-layout.c-layout-11-11-h-calendar2016_en {
+    width: 520px;
+    height: 520px;
+    margin: -45% 0 0 -45%;
+    background: url('http://photo-collage.net/wp-content/themes/LWF_2014/css/images/backgrounds/preview-collage-11-11-h-calendar2016_en.png') 0% 0%/100%;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot{
+    height: 105px;
+    width: 105px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-1 {
+    left: 150px;
+    top: 34px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-2 {
+    left: 265px;
+    top: 34px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-3 {
+    left: 380px;
+    top: 34px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-4 {
+    left: 35px;
+    top: 149px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-5 {
+    left: 150px;
+    top: 149px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-6 {
+    left: 265px;
+    top: 149px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-7 {
+    left: 380px;
+    top: 149px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-8 {
+    left: 35px;
+    top: 264px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-9 {
+    left: 150px;
+    top: 264px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-10 {
+    left: 265px;
+    top: 264px;
+}
+.c-layout-11-11-h-calendar2016_en .c-layout-slot.pos-11 {
+    left: 380px;
+    top: 264px;
+}

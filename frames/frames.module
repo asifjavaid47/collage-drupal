@@ -1,0 +1,2421 @@
+<?php
+
+require_once ('frames.theme.inc'); 
+  error_reporting(0);
+function frames_menu() {
+    $items = array();
+     $items['frames/%'] = array(
+        'title'             =>  'Frames View',  //page title
+        'description'       =>  'Frames Information',  //description show when mouse hover on link
+        'page callback'     =>  'frames_list',  //callback function which is invoked when menu item is called.
+        'access callback'   =>  true,  //any user can access this page
+       );
+     $items['frames/show/%'] = array(
+        'title' => t('collage picture gallery'),
+        'page callback' => 'collage',
+        'page arguments' => array(2),
+        'access arguments' => array('access frame display'),
+          'access callback'   =>  true,  //any user can access this page
+         
+    );
+     return $items;
+} 
+function frames_list($cat) {
+    if($cat>0){
+        $result = db_query("SELECT * FROM frames where frames_category_id='" . $cat . "'")->fetchAll();   
+    }
+    else{
+        $result = db_query("SELECT * FROM frames")->fetchAll();
+    }
+$output = theme('frames_list', array('data'=> $result)); 
+return $output;
+}
+function collage($id){
+if($id==1){
+    frame_1($id);
+}
+else if($id==2){
+    frame_2($id);
+}
+else if($id==3){
+    frame_3($id);
+}
+else if($id==4){
+    frame_4($id);
+}
+else if($id==5){
+    frame_5($id);
+}
+else if($id==6){
+    frame_6($id);
+}
+else if($id==7){
+    frame_7($id);
+}
+else if($id==8){
+    frame_8($id);
+}
+else if($id==9){
+    frame_9($id);
+}else if($id==10){
+    frame_10($id);
+}
+else if($id==11){
+    frame_11($id);
+}
+else if($id==12){
+    frame_12($id);
+}
+else if($id==13){
+    frame_13($id);
+}
+else if($id==14){
+    frame_14($id);
+}
+else if($id==15){
+    frame_15($id);
+}
+else if($id==16){
+    frame_16($id);
+}
+else if($id==17){
+    frame_17($id);
+}
+else if($id==18){
+    frame_18($id);
+}
+else if($id==19){
+    frame_19($id);
+}
+else if($id==20){
+    frame_20($id);
+}
+else if($id==21){
+    frame_21($id);
+}
+else if($id==22){
+    frame_22($id);
+}
+else if($id==23){
+    frame_23($id);
+}
+else if($id==24){
+    frame_24($id);
+}
+else if($id==25){
+    frame_25($id);
+}
+else if($id==26){
+    frame_26($id);
+}
+else if($id==27){
+    frame_27($id);
+}
+else if($id==28){
+    frame_28($id);
+}
+else if($id==29){
+    frame_29($id);
+}
+else if($id==30){
+    frame_30($id);
+}
+else if($id==31){
+    frame_31($id);
+}
+else if($id==32){
+    frame_32($id);
+}
+else if($id==33){
+    frame_33($id);
+}
+else if($id==34){
+    frame_34($id);
+}
+else if($id==35){
+    frame_35($id);
+}
+else if($id==36){
+    frame_36($id);
+}
+else if($id==37){
+    frame_37($id);
+}
+else if($id==38){
+    frame_38($id);
+}
+else if($id==39){
+    frame_39($id);
+}
+else if($id==40){
+    frame_40($id);
+}
+else if($id==41){
+    frame_41($id);
+}
+else if($id==42){
+    frame_42($id);
+}
+else if($id==43){
+    frame_43($id);
+}
+else if($id==44){
+    frame_44($id);
+}
+else if($id==45){
+    frame_45($id);
+}
+else if($id==46){
+    frame_46($id);
+}
+else if($id==47){
+    frame_47($id);
+}
+else if($id==48){
+    frame_48($id);
+}
+else if($id==49){
+    frame_49($id);
+}
+else if($id==50){
+    frame_50($id);
+}
+else if($id==51){
+    frame_51($id);
+}
+else if($id==52){
+    frame_52($id);
+}
+else if($id==53){
+    frame_53($id);
+}
+else if($id==54){
+    frame_54($id);
+}
+else if($id==55){
+    frame_55($id);
+}
+else if($id==56){
+    frame_56($id);
+}
+else if($id==57){
+    frame_57($id);
+}
+else if($id==58){
+    frame_58($id);
+}
+else if($id==59){
+    frame_59($id);
+}
+else if($id==60){
+    frame_60($id);
+}
+else if($id==61){
+    frame_61($id);
+}
+else if($id==62){
+    frame_62($id);
+}
+else if($id==63){
+    frame_63($id);
+}
+else if($id==64){
+    frame_64($id);
+}
+else if($id==65){
+    frame_65($id);
+}
+else if($id==66){
+    frame_66($id);
+}
+else if($id==67){
+    frame_67($id);
+}
+else if($id==68){
+    frame_68($id);
+}
+else if($id==69){
+    frame_69($id);
+}
+else if($id==70){
+    frame_70($id);
+}
+else if($id==71){
+    frame_71($id);
+}
+else if($id==72){
+    frame_72($id);
+}
+else if($id==73){
+    frame_73($id);
+}
+else if($id==74){
+    frame_74($id);
+}
+else if($id==75){
+    frame_75($id);
+}
+else if($id==76){
+    frame_76($id);
+}
+else if($id==77){
+    frame_77($id);
+}
+else if($id==78){
+    frame_78($id);
+}
+else if($id==79){
+    frame_79($id);
+}
+else if($id==80){
+    frame_80($id);
+}
+else if($id==81){
+    frame_81($id);
+}
+else if($id==82){
+    frame_82($id);
+}
+else if($id==83){
+    frame_83($id);
+}
+else if($id==84){
+    frame_84($id);
+}
+else if($id==85){
+    frame_86($id);
+}
+else if($id==86){
+    frame_86($id);
+}
+else if($id==87){
+    frame_87($id);
+}
+else if($id==88){
+    frame_89($id);
+}
+else if($id==89){
+    frame_89($id);
+}
+else if($id==90){
+    frame_90($id);
+}
+else if($id==91){
+    frame_92($id);
+}
+else if($id==92){
+    frame_92($id);
+}
+else if($id==93){
+    frame_94($id);
+}
+else if($id==94){
+    frame_94($id);
+}
+else if($id==95){
+    frame_95($id);
+}
+else if($id==96){
+    frame_96($id);
+}
+else if($id==97){
+    frame_97($id);
+}
+}
+function frames_header(){
+ $link = $GLOBALS['base_url'];
+ echo'<title>Collage Picture Galley</title>'; 
+ define('css_path',"$link/sites/all/modules/frames/css/");
+ define('js_paths',"$link/sites/all/modules/frames/js/");
+echo '<link rel="stylesheet" href="'.css_path.'bootstrap.css">
+ <link rel="stylesheet" href="'.css_path.'collage-designer-20150304.css">
+ <link rel="stylesheet" href="'.css_path.'jquery.colorbox.css">
+ <link rel="stylesheet" href="'.css_path.'jquery.Jcrop.min.css">
+ <link rel="stylesheet" href="'.css_path.'collage-style.css">
+<script src="'.js_paths.'jquery.min.js"></script>
+<script src="'.js_paths.'jquery.Jcrop.js"></script>
+<script src="'.js_paths.'leadceoncept.js"></script>';
+    //header start
+     echo '<div class=" container continrbg">
+            <div class="col-sm-12 padding ">
+                <div class="col-xs-12 col-sm-12  headrbg ">
+                    <div class="col-xs-12 col-sm-12 padding ">
+                        <div class="col-xs-12 col-sm-6 padding "> <img src="../../sites/all/modules/frames/images/logo.png"  class="img-responsive"/> </div>
+                        <div class="col-xs-12 col-sm-6 padding "> <img src="../../sites/all/modules/frames/images/cartimg.png"  class="img-responsive pull-right"/> </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 navbar navbar-default menubg " role="navigation" style="margin-bottom:0;">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a href="../index.php">Home</a></li>
+                            <li><a href="#">Aims & Objectives </a></li>
+                            <li><a href="#"> Our Homes </a></li>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Aims & Objectives </a></li>
+                            <li><a href="#"> Our Homes </a></li>
+                            <li><a href="#"> Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <!--/.navbar-collapse --> 
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12  ">
+                <div class="col-xs-12 col-sm-12  ">
+                    <div class="contentinr col-md-12">
+                        <label class="col-md-12" style="text-align: center;">Photo Collages - Select Your Layout</label>
+                        <p class="col-md-12" style="text-align: center;">We offer a large collection of photo collages with upto 20 apertures in various shapes and sizes.<br />Simply select a layout, Upload your photos then select a frame in our design studio.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="c-designer-modal">
+                <div id="c-designer-modal-content">
+                    <h4>Crop image<span class="icon-move"></span></h4>
+                    <div id="c-designer-modal-crop" style="width: 280px; height: 430px;">
+                        <img alt="modal image" id="c-designer-modal-img" width="280" height="430" src="" style="width: 280px; height: 430px; display: inline; visibility: visible;">
+                    </div>
+                    <span id="c-designer-modal-crop-confirm" class="btn btn-green"><span>Apply</span> <i class="glyphicon glyphicon-ok"></i></span> 
+                </div>
+            </div>';
+    //header end
+}
+function sidebars($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_four($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_four.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_two($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_two.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_one($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_one.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_four_simple($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_four_simple.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+//sidbars 5 images
+function sidebar_five($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_five.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+//sidbars 5 images
+function sidebar_six($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_six.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_seven($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_seven.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_seven_simple($id){
+     $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_seven_simple.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_eight($id){
+   $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_eight.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_nine($id){
+     $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_nine.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_ten($id){
+       $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$link.'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    
+    //for images
+                 sidebar_img();
+                  
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$link.'/collage/show/save_frame_ten.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_eleven($id){
+    $link = $GLOBALS['base_url'];
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    
+    //for images
+                 sidebar_img();
+                  
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_eleven.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_twelve($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    
+    //for images
+                 sidebar_img();
+                  
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_twelve.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_thirteen($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    
+    //for images
+                 sidebar_img();
+                  
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_thirteen.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="slot_13" id="slot_13" value=""/>
+        <input type="hidden" name="slot_13_de" id="slot_13_de" value=""/>
+        <input type="hidden" name="slot_13_details" id="slot_13_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_fourteen($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    
+    //for images
+                 sidebar_img();
+                  
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_fourteen.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="slot_13" id="slot_13" value=""/>
+        <input type="hidden" name="slot_13_de" id="slot_13_de" value=""/>
+        <input type="hidden" name="slot_13_details" id="slot_13_details" value=""/>
+        <input type="hidden" name="slot_14" id="slot_14" value=""/>
+        <input type="hidden" name="slot_14_de" id="slot_14_de" value=""/>
+        <input type="hidden" name="slot_14_details" id="slot_14_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_sixteen($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    
+    //for images
+                 sidebar_img();
+                  
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_sixteen.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="slot_13" id="slot_13" value=""/>
+        <input type="hidden" name="slot_13_de" id="slot_13_de" value=""/>
+        <input type="hidden" name="slot_13_details" id="slot_13_details" value=""/>
+        <input type="hidden" name="slot_14" id="slot_14" value=""/>
+        <input type="hidden" name="slot_14_de" id="slot_14_de" value=""/>
+        <input type="hidden" name="slot_14_details" id="slot_14_details" value=""/>
+        <input type="hidden" name="slot_15" id="slot_15" value=""/>
+        <input type="hidden" name="slot_15_de" id="slot_15_de" value=""/>
+        <input type="hidden" name="slot_15_details" id="slot_15_details" value=""/>
+        <input type="hidden" name="slot_16" id="slot_16" value=""/>
+        <input type="hidden" name="slot_16_de" id="slot_16_de" value=""/>
+        <input type="hidden" name="slot_16_details" id="slot_16_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_eighteen($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_eighteen.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="slot_13" id="slot_13" value=""/>
+        <input type="hidden" name="slot_13_de" id="slot_13_de" value=""/>
+        <input type="hidden" name="slot_13_details" id="slot_13_details" value=""/>
+        <input type="hidden" name="slot_14" id="slot_14" value=""/>
+        <input type="hidden" name="slot_14_de" id="slot_14_de" value=""/>
+        <input type="hidden" name="slot_14_details" id="slot_14_details" value=""/>
+        <input type="hidden" name="slot_15" id="slot_15" value=""/>
+        <input type="hidden" name="slot_15_de" id="slot_15_de" value=""/>
+        <input type="hidden" name="slot_15_details" id="slot_15_details" value=""/>
+        <input type="hidden" name="slot_16" id="slot_16" value=""/>
+        <input type="hidden" name="slot_16_de" id="slot_16_de" value=""/>
+        <input type="hidden" name="slot_16_details" id="slot_16_details" value=""/>
+        <input type="hidden" name="slot_17" id="slot_17" value=""/>
+        <input type="hidden" name="slot_17_de" id="slot_17_de" value=""/>
+        <input type="hidden" name="slot_17_details" id="slot_17_details" value=""/>
+        <input type="hidden" name="slot_18" id="slot_18" value=""/>
+        <input type="hidden" name="slot_18_de" id="slot_18_de" value=""/>
+        <input type="hidden" name="slot_18_details" id="slot_18_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_twenty($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_twenty.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="slot_13" id="slot_13" value=""/>
+        <input type="hidden" name="slot_13_de" id="slot_13_de" value=""/>
+        <input type="hidden" name="slot_13_details" id="slot_13_details" value=""/>
+        <input type="hidden" name="slot_14" id="slot_14" value=""/>
+        <input type="hidden" name="slot_14_de" id="slot_14_de" value=""/>
+        <input type="hidden" name="slot_14_details" id="slot_14_details" value=""/>
+        <input type="hidden" name="slot_15" id="slot_15" value=""/>
+        <input type="hidden" name="slot_15_de" id="slot_15_de" value=""/>
+        <input type="hidden" name="slot_15_details" id="slot_15_details" value=""/>
+        <input type="hidden" name="slot_16" id="slot_16" value=""/>
+        <input type="hidden" name="slot_16_de" id="slot_16_de" value=""/>
+        <input type="hidden" name="slot_16_details" id="slot_16_details" value=""/>
+        <input type="hidden" name="slot_17" id="slot_17" value=""/>
+        <input type="hidden" name="slot_17_de" id="slot_17_de" value=""/>
+        <input type="hidden" name="slot_17_details" id="slot_17_details" value=""/>
+        <input type="hidden" name="slot_18" id="slot_18" value=""/>
+        <input type="hidden" name="slot_18_de" id="slot_18_de" value=""/>
+        <input type="hidden" name="slot_18_details" id="slot_18_details" value=""/>
+        <input type="hidden" name="slot_19" id="slot_19" value=""/>
+        <input type="hidden" name="slot_19_de" id="slot_19_de" value=""/>
+        <input type="hidden" name="slot_19_details" id="slot_19_details" value=""/>
+        <input type="hidden" name="slot_20" id="slot_20" value=""/>
+        <input type="hidden" name="slot_20_de" id="slot_20_de" value=""/>
+        <input type="hidden" name="slot_20_details" id="slot_20_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_tewntyfive($id){
+    echo '<div class="col-xs-12 col-sm-4  col-md-4" >
+    <div class="collage-layout-filter cf form-group">
+        <h2 style="background-color: #2d2d37; color: #fff; margin-bottom: 20px;">My photos</h2>
+        <div id="c-designer-sidebar">
+            <div class="col-md-12" id="c-designer-upload">
+<!--                <form action="action.php" method="post" id="sbmit_form" enctype="multipart/form-data">-->
+                    <span class="btn btn-success fileinput-button">
+                        <i class="glyphicon glyphicon-plus"></i>
+                        <span>Add photos...</span>
+                        <input type="file" multiple="multiple" name="files[]" id="fileupload">
+                        <input type="hidden" name="page" value="">
+                    </span>
+<!--                </form>-->
+                <div id="loading">
+                    <img src="'.$GLOBALS['base_url'].'/sites/all/modules/frames/images/loader.gif" id="gif">
+                </div>
+            </div>
+            <div id="c-designer-gallery">
+                <ul id="c-designer-images" class="cf">';
+    //for images
+                 sidebar_img();
+                echo'</ul>
+            </div>                            
+        </div>
+    </div>
+    <form action="'.$GLOBALS['base_url'].'/collage/show/save_frame_twentyfive.php" method="post">
+        <input type="hidden" name="slot_1" id="slot_1" value=""/>
+        <input type="hidden" name="frame_text" id="frame_text" value=""/>
+        <input type="hidden" name="slot_1_de" id="slot_1_de" value=""/>
+        <input type="hidden" name="slot_1_details" id="slot_1_details" value=""/>
+        <input type="hidden" name="slot_2" id="slot_2" value=""/>
+        <input type="hidden" name="slot_2_de" id="slot_2_de" value=""/>
+        <input type="hidden" name="slot_2_details" id="slot_2_details" value=""/>
+        <input type="hidden" name="slot_3" id="slot_3" value=""/>
+        <input type="hidden" name="slot_3_de" id="slot_3_de" value=""/>
+        <input type="hidden" name="slot_3_details" id="slot_3_details" value=""/>
+        <input type="hidden" name="slot_4" id="slot_4" value=""/>
+        <input type="hidden" name="slot_4_de" id="slot_4_de" value=""/>
+        <input type="hidden" name="slot_4_details" id="slot_4_details" value=""/>
+        <input type="hidden" name="slot_5" id="slot_5" value=""/>
+        <input type="hidden" name="slot_5_de" id="slot_5_de" value=""/>
+        <input type="hidden" name="slot_5_details" id="slot_5_details" value=""/>
+        <input type="hidden" name="slot_6" id="slot_6" value=""/>
+        <input type="hidden" name="slot_6_de" id="slot_6_de" value=""/>
+        <input type="hidden" name="slot_6_details" id="slot_6_details" value=""/>
+        <input type="hidden" name="slot_7" id="slot_7" value=""/>
+        <input type="hidden" name="slot_7_de" id="slot_7_de" value=""/>
+        <input type="hidden" name="slot_7_details" id="slot_7_details" value=""/>
+        <input type="hidden" name="slot_8" id="slot_8" value=""/>
+        <input type="hidden" name="slot_8_de" id="slot_8_de" value=""/>
+        <input type="hidden" name="slot_8_details" id="slot_8_details" value=""/>
+        <input type="hidden" name="slot_9" id="slot_9" value=""/>
+        <input type="hidden" name="slot_9_de" id="slot_9_de" value=""/>
+        <input type="hidden" name="slot_9_details" id="slot_9_details" value=""/>
+        <input type="hidden" name="slot_10" id="slot_10" value=""/>
+        <input type="hidden" name="slot_10_de" id="slot_10_de" value=""/>
+        <input type="hidden" name="slot_10_details" id="slot_10_details" value=""/>
+        <input type="hidden" name="slot_11" id="slot_11" value=""/>
+        <input type="hidden" name="slot_11_de" id="slot_11_de" value=""/>
+        <input type="hidden" name="slot_11_details" id="slot_11_details" value=""/>
+        <input type="hidden" name="slot_12" id="slot_12" value=""/>
+        <input type="hidden" name="slot_12_de" id="slot_12_de" value=""/>
+        <input type="hidden" name="slot_12_details" id="slot_12_details" value=""/>
+        <input type="hidden" name="slot_13" id="slot_13" value=""/>
+        <input type="hidden" name="slot_13_de" id="slot_13_de" value=""/>
+        <input type="hidden" name="slot_13_details" id="slot_13_details" value=""/>
+        <input type="hidden" name="slot_14" id="slot_14" value=""/>
+        <input type="hidden" name="slot_14_de" id="slot_14_de" value=""/>
+        <input type="hidden" name="slot_14_details" id="slot_14_details" value=""/>
+        <input type="hidden" name="slot_15" id="slot_15" value=""/>
+        <input type="hidden" name="slot_15_de" id="slot_15_de" value=""/>
+        <input type="hidden" name="slot_15_details" id="slot_15_details" value=""/>
+        <input type="hidden" name="slot_16" id="slot_16" value=""/>
+        <input type="hidden" name="slot_16_de" id="slot_16_de" value=""/>
+        <input type="hidden" name="slot_16_details" id="slot_16_details" value=""/>
+        <input type="hidden" name="slot_17" id="slot_17" value=""/>
+        <input type="hidden" name="slot_17_de" id="slot_17_de" value=""/>
+        <input type="hidden" name="slot_17_details" id="slot_17_details" value=""/>
+        <input type="hidden" name="slot_18" id="slot_18" value=""/>
+        <input type="hidden" name="slot_18_de" id="slot_18_de" value=""/>
+        <input type="hidden" name="slot_18_details" id="slot_18_details" value=""/>
+        <input type="hidden" name="slot_19" id="slot_19" value=""/>
+        <input type="hidden" name="slot_19_de" id="slot_19_de" value=""/>
+        <input type="hidden" name="slot_19_details" id="slot_19_details" value=""/>
+        <input type="hidden" name="slot_20" id="slot_20" value=""/>
+        <input type="hidden" name="slot_20_de" id="slot_20_de" value=""/>
+        <input type="hidden" name="slot_20_details" id="slot_20_details" value=""/>
+        <input type="hidden" name="slot_21" id="slot_21" value=""/>
+        <input type="hidden" name="slot_21_de" id="slot_21_de" value=""/>
+        <input type="hidden" name="slot_21_details" id="slot_21_details" value=""/>
+        <input type="hidden" name="slot_22" id="slot_22" value=""/>
+        <input type="hidden" name="slot_22_de" id="slot_22_de" value=""/>
+        <input type="hidden" name="slot_22_details" id="slot_22_details" value=""/>
+        <input type="hidden" name="slot_23" id="slot_23" value=""/>
+        <input type="hidden" name="slot_23_de" id="slot_23_de" value=""/>
+        <input type="hidden" name="slot_23_details" id="slot_23_details" value=""/>
+        <input type="hidden" name="slot_24" id="slot_24" value=""/>
+        <input type="hidden" name="slot_24_de" id="slot_24_de" value=""/>
+        <input type="hidden" name="slot_24_details" id="slot_24_details" value=""/>
+        <input type="hidden" name="slot_25" id="slot_25" value=""/>
+        <input type="hidden" name="slot_25_de" id="slot_25_de" value=""/>
+        <input type="hidden" name="slot_25_details" id="slot_25_details" value=""/>
+        <input type="hidden" name="frame" id="frame" value="'.$id.'"/>
+        <div id="hidden_values"></div>
+        <div id="c-designer-btn-render-wrapper">
+            <button class="btn btn-success btnuplodimg"><i class="glyphicon glyphicon-ok"></i> Generate the Image</button>
+        </div>
+    </form>
+</div>
+</div>';
+ //header div close
+}
+function sidebar_img(){
+    $ip = $_SERVER['REMOTE_ADDR'];
+    $db_result = db_query("SELECT * From frame_temp where ip_address='" . $ip . "'")->fetchAll();
+    foreach($db_result as $v){
+                   echo '<li class="ui-draggable">
+   <img rel="../../sites/all/modules/frames/frames_temp/'.$v->image_name.'" src="../../sites/all/modules/frames/frames_temp/'.$v->image_name.'" id="'.$v->temp_id.'" class="img-thumbnail" width="50" height="50">
+                   <div class="c-image-remove" title="Remove image"></div>
+                   </li>';                  
+                    }
+}
+function frames_footer(){
+   $link= $GLOBALS['base_url'];
+  define('js_path',"$link/sites/all/modules/frames/js/");
+   echo '<script src="'.js_path.'jquery.colorbox-min.js"></script>     
+  <script src="'.js_path.'bootstrap.min.js"></script>     
+  <script src="'.js_path.'jquery.event.mousestop.js"></script>     
+  <script src="'.js_path.'jquery.js"></script>     
+  <script src="'.js_path.'jquery.Jcrop.min.js"></script>     
+  <script src="'.js_path.'jquery.tooltip.js"></script>     
+  <script src="'.js_path.'jquery.cookie.js"></script>     
+  <script src="'.js_path.'fce-language.js"></script>     
+  <script src="'.js_path.'jquery.inputhints.js"></script>     
+  <script src="'.js_path.'jquery-ui-1.10.3.custom.min.js"></script>     
+  <script src="'.js_path.'collage-designer-20150720.js"></script>     
+  <script src="'.js_path.'jquery.fileupload.js"></script>';
+}
+function frame_1($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebars($id);
+    frames_footer();
+
+}
+function frame_2($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebars($id);
+    frames_footer();
+}
+function frame_3($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebars($id);
+    frames_footer();
+}
+function frame_4($id){
+    frames_header();
+   require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebar_four($id);
+    frames_footer();
+}
+//frame 5 start here 
+function frame_5($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebar_four($id);
+    frames_footer();
+}
+//frame 6 start here 
+function frame_6($id){
+    frames_header();
+ require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebar_four($id);
+    frames_footer();
+}
+//frame 7 start here 
+function frame_7($id){
+    frames_header();
+   require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebar_four($id);
+    frames_footer();
+}
+//frame 8 start here 
+function frame_8($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebars($id);
+     frames_footer();
+}
+//frame 9 start here 
+function frame_9($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebars($id);
+     frames_footer();
+}
+//frame 10 start here 
+function frame_10($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebars($id);
+     frames_footer();
+}
+//frame 11 start here 
+function frame_11($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebars($id);
+     frames_footer();
+}
+//frame 12 start here 
+function frame_12($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_four($id);
+     frames_footer();
+}
+//frame 13 start here 
+function frame_13($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_four($id);
+     frames_footer();
+}
+//frame 14 start here 
+function frame_14($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_four($id);
+     frames_footer();
+}
+//frame 16 start here 
+function frame_16($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_five($id);
+     frames_footer();
+}
+//frame 17 start here 
+function frame_17($id){
+     frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+       sidebar_four($id);
+       frames_footer();
+}
+//frame 18 start here 
+function frame_18($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebar_four($id);
+    frames_footer();
+}
+function frame_19($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+    sidebar_five($id);
+    frames_footer();
+}
+//frame 20 start here
+function frame_20($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_five($id);
+     frames_footer();
+}
+function frame_21($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_six($id);
+     frames_footer();
+}
+function frame_22($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_five($id);
+     frames_footer();
+}
+function frame_23($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_six($id);
+     frames_footer();
+}
+function frame_24($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_six($id);
+     frames_footer();
+}
+//frame 25 start here 
+function frame_25($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_six($id);
+     frames_footer();
+}
+//frame 26 start here 
+function frame_26($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_six($id);
+     frames_footer();
+}
+//frame 27 start here 
+function frame_27($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_six($id);
+    frames_footer();
+}
+//frame 28 start here 
+function frame_28($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_six($id);
+    frames_footer();
+}
+//frame 29 start here 
+function frame_29($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_seven($id);
+    frames_footer();
+}
+//frame 30 start here 
+function frame_30($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_seven($id);
+     frames_footer();
+}
+//frame 31 start here 
+function frame_31($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_seven_simple($id);
+     frames_footer();
+}
+//frame 32 start here 
+function frame_32($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_seven_simple($id);
+     frames_footer();
+}
+//frame 33 start here 
+function frame_33($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_seven($id);
+     frames_footer();
+}
+//frame 34 start here 
+function frame_34($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_seven($id);
+     frames_footer();
+}
+//frame 35 start here 
+function frame_35($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_seven_simple($id);
+     frames_footer();
+}
+//frame 36 start here 
+function frame_36($id){
+frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_seven_simple($id);
+    frames_footer();
+}
+//frame 37 start here 
+function frame_37($id){
+frames_header();
+require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+sidebar_eight($id);
+frames_footer();
+}
+//frame 38 start here 
+function frame_38($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_eight($id);
+     frames_footer();
+}
+//frame 39 start here 
+function frame_39($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_nine($id);
+     frames_footer();
+}
+//frame 40 start here 
+function frame_40($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_nine($id);
+     frames_footer();
+}
+//frame 41 start here 
+function frame_41($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_nine($id);
+     frames_footer();
+}
+//frame 42 start here 
+function frame_42($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_nine($id);
+     frames_footer();
+}
+//frame 43 start here 
+function frame_43($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_nine($id);
+    frames_footer();
+}
+//frame 44 start here 
+function frame_44($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_nine($id);
+     frames_footer();
+}
+//frame 45 start here 
+function frame_45($id){
+     frames_header();   
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_ten($id);
+     frames_footer();
+}
+//frame 46 start here 
+function frame_46($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_ten($id);
+     frames_footer();
+}
+//frame 47 start here 
+function frame_47($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_ten($id);
+    frames_footer();
+}
+//frame 48 start here 
+function frame_48($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_ten($id);
+    frames_footer();
+}
+//frame 49 start here 
+function frame_49($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_ten($id);
+    frames_footer();
+}
+//frame 50 start here 
+function frame_50($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_ten($id);
+    frames_footer();
+}
+//frame 51 start here 
+function frame_51($id){
+   frames_header();
+   require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+   sidebar_ten($id);
+   frames_footer();
+}
+//frame 52 start here 
+function frame_52($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_ten($id);
+    frames_footer();
+}
+//frame 53 start here 
+function frame_53($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_twelve($id);
+    frames_footer();
+}
+//frame 54 start here 
+function frame_54($id){
+    frames_header();  
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_twelve($id);
+    frames_footer();
+}
+//frame 55 start here 
+function frame_55($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_twelve($id);
+    frames_footer();
+}
+//frame 56 start here 
+function frame_56($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_eleven($id);
+    frames_footer();
+}
+//frame 57 start here 
+function frame_57($id){
+   frames_header();
+   require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+   sidebar_eleven($id);
+   frames_footer();
+}
+//frame 58 start here 
+function frame_58($id){
+    frames_header();       
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_eleven($id);
+    frames_footer();
+}
+//frame 59 start here 
+function frame_59($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_thirteen($id);
+    frames_footer();
+}
+//frame 60 start here 
+function frame_60($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_thirteen($id);
+     frames_footer();
+}
+//frame 61 start here 
+function frame_61($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_fourteen($id);
+    frames_footer();
+}
+//frame 62 start here 
+function frame_62($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_fourteen($id);
+    frames_footer();
+}
+//frame 63 start here 
+function frame_63($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_sixteen($id);
+    frames_footer();
+}
+//frame 64 start here 
+function frame_64($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_sixteen($id);
+    frames_footer();
+}
+//frame 65 start here 
+function frame_65($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_sixteen($id);
+     frames_footer();
+}
+//frame 66 start here 
+function frame_66($id){
+     frames_header();
+require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+  sidebar_sixteen($id);
+    frames_footer();
+}
+//frame 67 start here 
+function frame_67($id){
+     frames_header();   
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_eighteen($id);
+     frames_footer();
+}
+//frame 68 start here 
+function frame_68($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_twenty($id);
+    frames_footer();
+}
+//frame 69 start here 
+function frame_69($id){
+   frames_header();
+   require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_twenty($id);
+    frames_footer();
+}
+//frame 70 start here 
+function frame_70($id){
+    frames_header();
+    require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+    sidebar_twenty($id);
+    frames_footer();
+}
+//frame 71 start here 
+function frame_71($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_eighteen($id);
+     frames_footer();
+}
+//frame 72 start here 
+function frame_72($id){
+     frames_header();
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_tewntyfive($id);
+     frames_footer();
+}
+//frame 73 start here 
+function frame_73($id){
+     frames_header();   
+     require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+     sidebar_twenty($id);
+     frames_footer();
+}
+function frame_74($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_75($id){
+      frames_header();require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc');
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_76($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_77($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_78($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_79($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_80($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_81($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_82($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_four_simple($id);
+      frames_footer();
+}
+function frame_83($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_84($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_85($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_two($id);
+      frames_footer();
+}
+function frame_86($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_87($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_88($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+     sidebar_two($id);
+      frames_footer();
+}
+function frame_89($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_90($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_91($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_92($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_93($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_94($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_two($id);
+      frames_footer();
+}
+function frame_95($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_one($id);
+      frames_footer();
+}
+function frame_96($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebar_one($id);
+      frames_footer();
+}
+function frame_97($id){
+      frames_header();
+      require(drupal_get_path('module', 'frames') . '/template/'.$id.'.inc'); 
+      sidebars($id);
+      frames_footer();
+}

@@ -1,0 +1,9 @@
+name = frames
+description = frames Module
+package = public-action
+version = VERSION
+core = 7.x
+files[] = frames.module; Information added by drupal.org packaging script on 2010-03-21
+version = "7.*"
+project = "drupal"
+datestamp = "1269192313"
